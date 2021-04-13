@@ -1,0 +1,6 @@
+Dockerfile
+execSQlCommmands.sh
+sqlCommands
+docker-compose.yml 
+dockerignore
+run.sh

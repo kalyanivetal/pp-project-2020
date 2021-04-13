@@ -1,0 +1,1371 @@
+Script started on 2020-04-30 18:50:38+0530
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/frontend/src
+[97m$ (B[mhi
+
+Command 'hi' not found, but can be installed with:
+
+sudo snap install hi
+
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/frontend/src
+[97m$ (B[mcp[Kopy pasye[K[Kte here
+
+Command 'copy' not found, did you mean:
+
+  command 'opy' from snap opy (latest)
+  command 'copay' from snap copay (9.3.5)
+  command 'ropy' from deb libdisorder-tools
+  command 'hcopy' from deb hfsutils
+  command 'copyq' from deb copyq
+  command 'rcopy' from deb rdmacm-utils
+  command 'bcopy' from deb bacula-sd
+  command 'fcopy' from deb fai-client
+  command 'mcopy' from deb mtools
+
+See 'snap info <snapname>' for additional versions.
+
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/frontend/src
+[97m$ (B[mvo[Kim typescript 
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;37r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[37;1H"typescript" 0L, 0C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[2;1H[94m~                                                                                                                                      [3;1H~                                                                                                                                      [4;1H~                                                                                                                                      [5;1H~                                                                                                                                      [6;1H~                                                                                                                                      [7;1H~                                                                                                                                      [8;1H~                                                                                                                                      [9;1H~                                                                                                                                      [10;1H~                                                                                                                                      [11;1H~                                                                                                                                      [12;1H~                                                                                                                                      [13;1H~                                                                                                                                      [14;1H~                                                                                                                                      [15;1H~                                                                                                                                      [16;1H~                                                                                                                                      [17;1H~                                                                                                                                      [18;1H~                                                                                                                                      [19;1H~                                                                                                                                      [20;1H~                                                                                                                                      [21;1H~                                                                                                                                      [22;1H~                                                                                                                                      [23;1H~                                                                                                                                      [24;1H~                                                                                                                                      [25;1H~                                                                                                                                      [26;1H~                                                                                                                                      [27;1H~                                                                                                                                      [28;1H~                                                                                                                                      [29;1H~                                                                                                                                      [30;1H~                                                                                                                                      [31;1H~                                                                                                                                      [32;1H~                                                                                                                                      [33;1H~                                                                                                                                      [34;1H~                                                                                                                                      [35;1H~                                                                                                                                      [36;1H~                                                                                                                                      [m[37;118H0,0-1[9CAll[1;1H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[27m[23m[29m[m[H[2J[?25l[2;1H[94m~                                                                                                                                      [3;1H~                                                                                                                                      [4;1H~                                                                                                                                      [5;1H~                                                                                                                                      [6;1H~                                                                                                                                      [7;1H~                                                                                                                                      [8;1H~                                                                                                                                      [9;1H~                                                                                                                                      [10;1H~                                                                                                                                      [11;1H~                                                                                                                                      [12;1H~                                                                                                                                      [13;1H~                                                                                                                                      [14;1H~                                                                                                                                      [15;1H~                                                                                                                                      [16;1H~                                                                                                                                      [17;1H~                                                                                                                                      [18;1H~                                                                                                                                      [19;1H~                                                                                                                                      [20;1H~                                                                                                                                      [21;1H~                                                                                                                                      [22;1H~                                                                                                                                      [23;1H~                                                                                                                                      [24;1H~                                                                                                                                      [25;1H~                                                                                                                                      [26;1H~                                                                                                                                      [27;1H~                                                                                                                                      [28;1H~                                                                                                                                      [29;1H~                                                                                                                                      [30;1H~                                                                                                                                      [31;1H~                                                                                                                                      [32;1H~                                                                                                                                      [33;1H~                                                                                                                                      [34;1H~                                                                                                                                      [35;1H~                                                                                                                                      [36;1H~                                                                                                                                      [m[37;118H0,0-1[9CAll"typescript" 0L, 0C[1;1H[?25h[?25l[37;108H~@k[1;1H[37;108H   [1;1H[?25h[?25l[37;108H^[[1;1H[37;108H  [1;1H[37;108H^[[1;1H[37;108H  [1;1H[?25h[?25l[37;108H:[1;1H[37;1H[K[37;1H:[?2004h[?25hw[?25l[?25hq[?25l[?25h[?25l[?2004l"typescript"
+[97m[41mWARNING: The file has been changed since reading it!!![?2004h[m
+[38;5;121mDo you really want to write to it (y/n)?[?25h[mn[?2004h
+[38;5;121mPress ENTER or type command to continue[?25l[1;1H[m[3L[2;1H[94m~                                                                                                                                      [3;1H~                                                                                                                                      [m[37;1H[K[37;118H0,0-1[9CAll[1;1H[?25h[?25l[37;108Hn[1;1H[37;1H/\<s\>[37;108H[K[37;1H[38;5;224msearch hit BOTTOM, continuing at TOP[m[97m[41mE486: Pattern not found: \<s\>[m[37;31H[K[1;1H[37;118H0,0-1[9CAll[1;1H[?25h[?25l[37;108H^[[1;1H[37;108H  [1;1H[37;108H^[[1;1H[37;108H  [1;1H[?25h[?25l[37;108H^[[1;1H[37;108H  [1;1H[37;108H^[[1;1H[37;108H  [1;1H[?25h[?25l[37;108H![1;1H[?25h[?25l[37;109H^[[1;1H[37;109H  [1;1H[37;109H^[[1;1H[37;108H   [1;1H[?25h[?25l[37;108H:[1;1H[37;1H[K[37;1H:[?2004h[?25h![?25l[?25h[?25l:![?2004l[?1l>[?25h[?1049l[23;0;0t
+[?2004l[?2004h
+W11: Warning: File "typescript" has changed since editing started
+See ":help W11" for more info.
+[O]K, (L)oad File: 
+Press ENTER or type command to continue[J[?1049h[22;0;0t[?1h=[?2004h[?25l[1;1H[27m[23m[29m[m[H[2J[2;1H[94m~                                                                                                                                      [3;1H~                                                                                                                                      [4;1H~                                                                                                                                      [5;1H~                                                                                                                                      [6;1H~                                                                                                                                      [7;1H~                                                                                                                                      [8;1H~                                                                                                                                      [9;1H~                                                                                                                                      [10;1H~                                                                                                                                      [11;1H~                                                                                                                                      [12;1H~                                                                                                                                      [13;1H~                                                                                                                                      [14;1H~                                                                                                                                      [15;1H~                                                                                                                                      [16;1H~                                                                                                                                      [17;1H~                                                                                                                                      [18;1H~                                                                                                                                      [19;1H~                                                                                                                                      [20;1H~                                                                                                                                      [21;1H~                                                                                                                                      [22;1H~                                                                                                                                      [23;1H~                                                                                                                                      [24;1H~                                                                                                                                      [25;1H~                                                                                                                                      [26;1H~                                                                                                                                      [27;1H~                                                                                                                                      [28;1H~                                                                                                                                      [29;1H~                                                                                                                                      [30;1H~                                                                                                                                      [31;1H~                                                                                                                                      [32;1H~                                                                                                                                      [33;1H~                                                                                                                                      [34;1H~                                                                                                                                      [35;1H~                                                                                                                                      [36;1H~                                                                                                                                      [m[37;118H0,0-1[9CAll[1;1H[?25h[?25l[37;108H^[[1;1H[37;108H  [1;1H[37;108H^[[1;1H[37;108H  [1;1H[?25h[?25l[37;108H:[1;1H[37;108H[K[37;1H:[?2004h[?25h![?25l[?25h[?25l:![?2004l[?1l>[?25h[?1049l[23;0;0t
+[?2004l[?2004h
+W11: Warning: File "typescript" has changed since editing started
+See ":help W11" for more info.
+[O]K, (L)oad File: 
+Press ENTER or type command to continue[J[?1049h[22;0;0t[?1h=[?2004h[?25l[1;1H[27m[23m[29m[m[H[2J[2;1H[94m~                                                                                                                                      [3;1H~                                                                                                                                      [4;1H~                                                                                                                                      [5;1H~                                                                                                                                      [6;1H~                                                                                                                                      [7;1H~                                                                                                                                      [8;1H~                                                                                                                                      [9;1H~                                                                                                                                      [10;1H~                                                                                                                                      [11;1H~                                                                                                                                      [12;1H~                                                                                                                                      [13;1H~                                                                                                                                      [14;1H~                                                                                                                                      [15;1H~                                                                                                                                      [16;1H~                                                                                                                                      [17;1H~                                                                                                                                      [18;1H~                                                                                                                                      [19;1H~                                                                                                                                      [20;1H~                                                                                                                                      [21;1H~                                                                                                                                      [22;1H~                                                                                                                                      [23;1H~                                                                                                                                      [24;1H~                                                                                                                                      [25;1H~                                                                                                                                      [26;1H~                                                                                                                                      [27;1H~                                                                                                                                      [28;1H~                                                                                                                                      [29;1H~                                                                                                                                      [30;1H~                                                                                                                                      [31;1H~                                                                                                                                      [32;1H~                                                                                                                                      [33;1H~                                                                                                                                      [34;1H~                                                                                                                                      [35;1H~                                                                                                                                      [36;1H~                                                                                                                                      [m[37;118H0,0-1[9CAll[1;1H[?25h[?25l[37;108H^[[1;1H[37;108H  [1;1H[37;108H^[[1;1H[37;108H  [1;1H[?25h[?25l[37;108H:[1;1H[37;108H[K[37;1H:[?2004h[?25h![?25l[?25h[?25l:![?2004l[?1l>[?25h[?1049l[23;0;0t
+[?2004l[?2004h
+W11: Warning: File "typescript" has changed since editing started
+See ":help W11" for more info.
+[O]K, (L)oad File: 
+Press ENTER or type command to continue[J[?1049h[22;0;0t[?1h=[?2004h[?25l[1;1H[27m[23m[29m[m[H[2J[2;1H[94m~                                                                                                                                      [3;1H~                                                                                                                                      [4;1H~                                                                                                                                      [5;1H~                                                                                                                                      [6;1H~                                                                                                                                      [7;1H~                                                                                                                                      [8;1H~                                                                                                                                      [9;1H~                                                                                                                                      [10;1H~                                                                                                                                      [11;1H~                                                                                                                                      [12;1H~                                                                                                                                      [13;1H~                                                                                                                                      [14;1H~                                                                                                                                      [15;1H~                                                                                                                                      [16;1H~                                                                                                                                      [17;1H~                                                                                                                                      [18;1H~                                                                                                                                      [19;1H~                                                                                                                                      [20;1H~                                                                                                                                      [21;1H~                                                                                                                                      [22;1H~                                                                                                                                      [23;1H~                                                                                                                                      [24;1H~                                                                                                                                      [25;1H~                                                                                                                                      [26;1H~                                                                                                                                      [27;1H~                                                                                                                                      [28;1H~                                                                                                                                      [29;1H~                                                                                                                                      [30;1H~                                                                                                                                      [31;1H~                                                                                                                                      [32;1H~                                                                                                                                      [33;1H~                                                                                                                                      [34;1H~                                                                                                                                      [35;1H~                                                                                                                                      [36;1H~                                                                                                                                      [m[37;118H0,0-1[9CAll[1;1H[?25h[?25l[37;108H^[[1;1H[37;108H  [1;1H[37;108H^[[1;1H[37;108H  [1;1H[?25h[?25l[37;108H:[1;1H[37;108H[K[37;1H:[?2004h[?25hw[?25l[?25hq[?25l[?25h[?25l[37;3H[K[37;3H[?25h[?25l[37;2H[K[37;2H[?25hw[?25l[?25h![?25l[?25h[?25l"typescript"
+[97m[41mWARNING: The file has been changed since reading it!!![m
+[38;5;121mDo you really want to write to it (y/n)?[?25h[mn
+[38;5;121mPress ENTER or type command to continue[?25l[1;1H[m[3L[2;1H[94m~                                                                                                                                      [3;1H~                                                                                                                                      [m[37;1H[K[37;118H0,0-1[9CAll[1;1H[?25h[?25l[37;108Hn[1;1H[37;1H/\<s\>[37;108H[K[37;1H[38;5;224msearch hit BOTTOM, continuing at TOP[m[97m[41mE486: Pattern not found: \<s\>[m[37;31H[K[1;1H[37;118H0,0-1[9CAll[1;1H[?25h[?25l[37;108H^[[1;1H[37;108H  [1;1H[37;108H^[[1;1H[37;108H  [1;1H[?25h[?25l[37;108H:[1;1H[37;1H[K[37;1H:[?2004h[?25hQ[?25l[?25h[?25l[37;2H[K[37;2H[?25hq[?25l[?25h[?25l[?2004l[?2004l[?1l>[?25h[?1049l[23;0;0t
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/frontend/src
+[97m$ (B[m[H[2J[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/frontend/src
+[97m$ (B[mls
+App.css  App.test.js  index.js       LoginForm.js  serviceWorker.js  [0m[01;34mstore[0m            typescript
+App.js   index.css    InputField.js  [01;35mlogo.svg[0m      setupTests.js     SubmitButton.js
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/frontend/src
+[97m$ (B[mless typescript 
+[?1049h[22;0;0t[?1h=Script started on 2020-04-30 18:50:38+0530
+[7mESC[27m[1m
+[7mESC[27m[38;5;34m[puscd][7mESC[27m[97m at [7mESC[27m[38;5;39m[B-18][7mESC[27m[97m in [7mESC[27m[38;5;202m~/dream_project/react-js/frontend/src
+[7mESC[27m[97m$ [7mESC[27m(B[7mESC[27m[mhi
+
+Command 'hi' not found, but can be installed with:
+
+sudo snap install hi
+
+[7mESC[27m[1m
+[7mESC[27m[38;5;34m[puscd][7mESC[27m[97m at [7mESC[27m[38;5;39m[B-18][7mESC[27m[97m in [7mESC[27m[38;5;202m~/dream_project/react-js/frontend/src
+[7mESC[27m[97m$ [7mESC[27m(B[7mESC[27m[mc[7mESC[27m[Kopy pasy[7mESC[27m[[7mESC[27m[Kte here
+
+Command 'copy' not found, did you mean:
+
+  command 'opy' from snap opy (latest)
+  command 'copay' from snap copay (9.3.5)
+  command 'ropy' from deb libdisorder-tools
+  command 'hcopy' from deb hfsutils
+  command 'copyq' from deb copyq
+  command 'rcopy' from deb rdmacm-utils
+  command 'bcopy' from deb bacula-sd
+  command 'fcopy' from deb fai-client
+  command 'mcopy' from deb mtools
+
+See 'snap info <snapname>' for additional versions.
+
+[7mESC[27m[1m
+[7mESC[27m[38;5;34m[puscd][7mESC[27m[97m at [7mESC[27m[38;5;39m[B-18][7mESC[27m[97m in [7mESC[27m[38;5;202m~/dream_project/react-js/frontend/src
+[7mESC[27m[97m$ [7mESC[27m(B[7mESC[27m[mv[7mESC[27m[Kim typescript 
+[7mESC[27m[?2004h[7mESC[27m[?1049h[7mESC[27m[22;0;0t[7mESC[27m[?1h[7mESC[27m=[7mESC[27m[?2004h[7mESC[27m[1;37r[7mESC[27m[?12h[7mESC[27m[?12l[7mESC[27m[27m[7mESC[27m[23m[7mESC[27m[29m[7mESC[27m[m[7mESC[27m[H[7mESC[27m[2J[7mESC[27m[?25l[7mESC[27m[37;1H"typ escript" 0L, 0C[7mESC[27m[2;1H▽[7mESC[27m[6n[7mESC[27m[2;1H  [7mESC[27m[1;1H[7mESC[27m[>c[7mESC[27m]10;?[7m^GESC[27m]11;?[7m^GESC[27m[2;1H[7mESC[27m[94m~                                                                                                                                       [7mESC[27m[3;1H~                                                                                                                                       [7mESC[27m[4;1H~                                                                                                                                       [7mESC[27m[5;1H~                                                                                                                                       [7mESC[27m[6;1H~              [7mtypescript[27m[K[K [KESCESC[K[[[K11[K:[K[K:[K[K:[K66[K:[K[K [KESCESC[KOO[KAA[K[K:[K[K[?1l>[?1049l[23;0;0t[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/frontend/src
+[97m$ (B[mlls
+
+Command 'lls' not found, did you mean:
+
+  command 'llt' from deb storebackup
+  command 'ils' from deb sleuthkit
+  command 'lvs' from deb lvm2
+  command 'fls' from deb sleuthkit
+  command 'jls' from deb sleuthkit
+  command 'les' from deb atm-tools
+  command 'als' from deb atool
+  command 'ols' from deb speech-tools
+  command 'lli' from deb llvm-runtime
+  command 'ls' from deb coreutils
+  command 'lrs' from deb lrslib
+  command 'hls' from deb hfsutils
+  command 'bls' from deb bacula-sd
+  command 'llc' from deb llvm
+
+Try: sudo apt install <deb name>
+
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/frontend/src
+[97m$ (B[m[H[2J[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/frontend/src
+[97m$ (B[mls
+App.css  App.test.js  index.js       LoginForm.js  serviceWorker.js  [0m[01;34mstore[0m            typescript
+App.js   index.css    InputField.js  [01;35mlogo.svg[0m      setupTests.js     SubmitButton.js
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/frontend/src
+[97m$ (B[mcd .././[K./
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js
+[97m$ (B[m[H[2J[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js
+[97m$ (B[mls
+[0m[01;34mbackend[0m  [01;34mbuild[0m  D2  Dockerfile  dockerignore  [01;34mfrontend[0m  [01;34mnode_modules[0m  package.json  package-lock.json  [01;34mpublic[0m  README.md  [01;34msrc[0m
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js
+[97m$ (B[mdp[Kocker images
+REPOSITORY                      TAG                 IMAGE ID            CREATED             SIZE
+react-3                         latest              0cec8a872e79        5 hours ago         1.27GB
+mysql                           latest              a7a67c95e831        2 days ago          541MB
+node                            alpine              ea308280893e        8 days ago          117MB
+node                            latest              90a518fb4070        8 days ago          941MB
+nginx                           1.16.1-alpine       5fad07aba15a        3 months ago        21.8MB
+mysql-nginx-docker/my-project   latest              fb2d787e4236        3 months ago        18MB
+reverse-proxy_proxy             latest              152393233ce6        3 months ago        108MB
+node                            12.2.0-alpine       f391dabf9dce        11 months ago       77.7MB
+mysql                           8.0.2               f693302d97a2        2 years ago         266MB
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js
+[97m$ (B[mdockerrun [K[K[K[K run -it mysql /bin/bash
+root@1c3713dd63b1:/# [Kroot@1c3713dd63b1:/# exit
+exit
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js
+[97m$ (B[mdocker run -it mysql /bin/bash
+root@c635e381e380:/# [Kroot@c635e381e380:/# [Kroot@c635e381e380:/# [Kroot@c635e381e380:/# [Kroot@c635e381e380:/# [Kroot@c635e381e380:/# ^C
+root@c635e381e380:/# exit
+exit
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js
+[97m$ (B[mcd backend/
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mls
+[0m[01;34mbuild[0m   dependencies.txt  dockerignore  Main.js       package.json       Router.js
+db.txt  Dockerfile        GenPass.js    [01;34mnode_modules[0m  package-lock.json
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mvim Main.js 
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;37r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[37;1H"Main.js" 56L, 1231C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H[36m}[m);
+
+db.connect([36mfunction[m(err)[36m{[m[4;6H[38;5;130mif[m(err)[36m{[m[5;11Hconsole.log([31m'DB Error'[m);[6;11H[38;5;130mthrow[m err;[7;11H[38;5;130mreturn[m [31mfalse[m;[8;6H[36m}[m[9;6H[38;5;130melse[m console.log([31m'Successfully Connected To DB'[m)
+[36m}[m);
+
+[38;5;130mconst[m sessionStore= [38;5;130mnew[m MySqlStore([36m{[m[13;6Hexpiration: (1825*86400*1000),[14;6HendConnectionOnClose: [31mfalse[m
+[36m}[m,db);
+
+app.use(session([36m{[m[18;6Hkey: [31m'dreamproject'[m,[19;6Hsecret: [31m'ecommerceapp'[m,[20;6Hstore: sessionStore,[21;6Hresave: [31mfalse[m,[22;6HsaveUninitialized: [31mfalse[m,[23;6Hcookie:[36m{[m[24;11HmaxAge: (1825*86400*1000),[25;11HhttpOnly: [31mfalse[m[26;6H[36m}
+}[m));
+
+[38;5;130mnew[m Router(app,db);
+
+app.get([31m'/'[m,[36mfunction[m(req,res)[36m{[m[32;6Hres.sendFile(path.join(__dirname, [31m'build'[m,[31m'index.html'[m));
+[36m}[m);
+app.listen(3000);
+
+[34m/*0222022844 Central Bank */[m[37;118H56,28[9CBot[36;28H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[27m[23m[29m[m[H[2J[?25l[1;1H[1m[96m}[m);
+
+db.connect([1m[96mfunction[m(err)[1m[96m{[m[4;6H[93mif[m(err)[1m[96m{[m[5;11Hconsole.log([95m'DB Error'[m);[6;11H[93mthrow[m err;[7;11H[93mreturn[m [95mfalse[m;[8;6H[1m[96m}[m[9;6H[93melse[m console.log([95m'Successfully Connected To DB'[m)
+[1m[96m}[m);
+
+[93mconst[m sessionStore= [93mnew[m MySqlStore([1m[96m{[m[13;6Hexpiration: (1825*86400*1000),[14;6HendConnectionOnClose: [95mfalse[m
+[1m[96m}[m,db);
+
+app.use(session([1m[96m{[m[18;6Hkey: [95m'dreamproject'[m,[19;6Hsecret: [95m'ecommerceapp'[m,[20;6Hstore: sessionStore,[21;6Hresave: [95mfalse[m,[22;6HsaveUninitialized: [95mfalse[m,[23;6Hcookie:[1m[96m{[m[24;11HmaxAge: (1825*86400*1000),[25;11HhttpOnly: [95mfalse[m[26;6H[1m[96m}
+}[m));
+
+[93mnew[m Router(app,db);
+
+app.get([95m'/'[m,[1m[96mfunction[m(req,res)[1m[96m{[m[32;6Hres.sendFile(path.join(__dirname, [95m'build'[m,[95m'index.html'[m));
+[1m[96m}[m);
+app.listen(3000);
+
+[96m/*0222022844 Central Bank */[m[37;118H56,28[9CBot"Main.js" 56L, 1231C[36;28H[?25h[?25l[37;108Hi[36;28H[37;108H [36;28H
+[1m-- INSERT --[m[37;13H[K[37;118H56,28[9CBot[36;28H[?25h[?25l[37;119H5,1 [35;1H[?25h[?25l[37;119H4,18[34;18H[?25h[?25l[37;119H3,4 [33;4H[?25h[?25l[32;28H[46m([31C)[m[37;119H2,28[32;28H[?25h[?25l([31C)[37;119H1[31;28H[?25h[?25l[37;119H0,1 [30;1H[?25h[?25l[37;118H49,20[29;20H[?25h[?25l[37;119H8,1 [28;1H[?25h[?25l[37;119H7,5[27;5H[?25h[?25l[23;13H[1m[96m[46m{[26;6H}[m[37;119H6,7[26;7H[?25h[?25l[23;13H[1m[96m{[26;6H}[m[37;119H5,26[25;26H[?25h[?25l[37;119H4,28[24;28H[?25h[?25l[23;13H[1m[96m[46m{[26;6H}[m[37;119H3,14[23;14H[?25h[?25l[1m[96m{[26;6H}[m[37;119H2,28[22;28H[?25h[?25l[37;119H1,20[21;20H[?25h[?25l[37;119H0,26[20;26H[?25h[?25l[37;118H39,28[19;28H[?25h[?25l[37;119H8,26[18;26H[?25h[?25l[17;17H[1m[96m[46m{[27;1H}[m)[37;119H7,18[17;18H[?25h[?25l[1m[96m{[27;1H}[m)[37;119H6,1 [16;1H[?25h[?25l[37;119H5,7[15;7H[?25h[?25l[37;119H4,28[14;28H[?25h[?25l[37;119H3[13;28H[?25h[?25l[37;119H2[12;28H[?25h[?25l[37;119H1,1 [11;1H[?25h[?25l[37;119H0,4[10;4H[?25h[?25l[37;118H29,28[9;28H[?25h[?25l[4;13H[1m[96m[46m{[8;6H}[m[37;119H8,7 [8;7H[?25h[?25l[4;13H[1m[96m{[8;6H}[m[37;119H7,25[7;25H[?25h[?25l[37;119H6,21[6;21H[?25h[?25l[1;36r[1;1H[L[1;37r[1;6Hdatabase: [95m'user'[m[37;118H[K[37;118H25,28[9C95%[6;28H[?25h[?25l[1;36r[1;1H[L[1;37r[1;6Hpassword:[95m''[m,[37;118H[K[37;118H24,14[9C90%[6;13H[1m[96m[46m{[10;6H}[6;14H[?25h[?25l[1;36r[m[1;1H[L[1;37r[1;6Huser: [95m'puscd'[m,[37;118H[K[37;118H23,26[9C85%[6;25H[1m[96m[46m{[m[7;13H[1m[96m{[11;6H}[m
+
+[1m[96m[46m}[m)[6;26H[?25h[?25l[1;36r[1;1H[L[1;37r[1;6Hip: [95m'3306'[m,[37;118H[K[37;118H22,1[10C80%[7;25H[1m[96m{[14;1H}[m)[6;1H[?25h[?25l[1;36r[1;1H[L[1;37r[1;6Hhost: [95m'172.17.0.2'[m,[37;118H[K[37;118H21,4[10C75%[6;4H[?25h[?25l[1;36r[1;1H[L[1;37r[1;1H[93mconst[m db= mysql.createConnection([1m[96m{[m[37;118H[K[37;118H20,22[9C70%[6;22H[?25h[?25l[1;36r[1;1H[L[1;37r[37;118H[K[37;118H19,18[9C65%[6;18H[?25h[?25l[1;36r[1;1H[L[1;37r[1;1H[96m//Database[m[37;118H[K[37;118H18,20[9C60%[6;20H[?25h[?25l[1;36r[1;1H[L[1;37r[1;1Hconsole.log([95m'Testing Server'[m)[37;118H[K[37;118H17,17[9C55%[6;17H[?25h[?25l[1;36r[1;1H[L[1;37r[37;118H[K[37;118H16,25[9C50%[6;25H[?25h[?25l[1;36r[1;1H[L[1;37r[1;1Happ.use(express.json());[37;118H[K[37;118H15,28[9C45%[6;28H[?25h[?25l[1;36r[1;1H[L[1;37r[1;1Happ.use(express.[93mstatic[m(path.join(__dirname,[95m'build'[m)));[37;118H[K[37;118H14,1[10C40%[6;1H[?25h[?25l[1;36r[1;1H[L[1;37r[37;118H[K[37;118H13,11[9C35%[6;11H[?25h[?25l[1;36r[1;1H[L[1;37r[1;1H[93mconst[m Router =require([95m'./Router'[m);[37;118H[K[37;118H12,28[9C30%[6;28H[?25h[?25l[1;36r[1;1H[L[1;37r[1;1H[93mconst[m MySqlStore= require([95m'express-mysql-session'[m)(session);[37;118H[K[37;118H11,1[10C25%[6;1H[?25h[?25l[1;36r[1;1H[L[1;37r[1;1H[93mconst[m session= require([95m'express-session'[m);[37;118H[K[37;118H10,25[9C20%[6;25H[?25h[?25l[1;36r[1;1H[L[1;37r[1;1H[93mconst[m mysql= require([95m'mysql'[m);[37;118H[K[37;118H9,28[10C15%[6;28H[?25h[?25l[1;36r[1;1H[L[1;37r[1;1H[93mconst[m path =require([95m'path'[m);[37;118H[K[37;118H8,1[11C10%[6;1H[?25h[?25l[1;36r[1;1H[L[1;37r[1;1H[93mconst[m app = express();[37;118H[K[37;118H7,28[11C5%[6;28H[?25h[?25l[1;36r[1;1H[L[1;37r[1;1H[93mconst[m express= require([95m'express'[m);[37;118H[K[37;118H6,28[10CTop[6;28H[?25h[?25l[37;118H5[5;28H[?25h[?25l[37;118H4[4;28H[?25h[?25l[3;20H[46m([6C)[m[37;118H3[3;28H[?25h[?25l[3;20H([6C)[37;118H2,23[2;23H[?25h[?25l[37;118H1,28[1;28H[?25h[?25l[37;118H2,23[2;23H[?25h[?25l[3;20H[46m([6C)[m[37;118H3,28[3;28H[?25h[?25l[3;20H([6C)[37;118H4[4;28H[?25h[?25l[37;118H5[5;28H[?25h[?25l[37;118H6[6;28H[?25h[?25l[37;118H7[7;28H[?25h[?25l[37;118H8,1 [8;1H[?25h[?25l[37;118H9,28[9;28H[?25h[?25l[37;118H10,25[10;25H[?25h[?25l[37;119H1,1 [11;1H[?25h[?25l[37;119H2,28[12;28H[?25h[?25l[37;119H3,11[13;11H[?25h[?25l[37;119H4,1 [14;1H[?25h[?25l[37;119H5,28[15;28H[?25h[?25l[37;119H6,25[16;25H[?25h[?25l[37;119H7,17[17;17H[?25h[?25l[37;119H8,20[18;20H[?25h[?25l[37;119H9,18[19;18H[?25h[?25l[37;118H20,22[20;22H[?25h[?25l[37;119H1,4 [21;4H[?25h[?25l[37;119H2,1[22;1H[?25h[?25l[23;25H[1m[96m[46m{[30;1H}[m)[37;119H3,26[23;26H[?25h[?25l[1m[96m{[m[24;13H[1m[96m[46m{[28;6H}[m
+
+[1m[96m}[m)[37;119H4,14[24;14H[?25h[?25l[1m[96m{[28;6H}[m[37;119H5,28[25;28H[?25h[?25l[37;119H6,21[26;21H[?25h[?25l[37;119H7,25[27;25H[?25h[?25l[24;13H[1m[96m[46m{[28;6H}[m[37;119H8,7 [28;7H[?25h[?25l[24;13H[1m[96m{[28;6H}[m[37;119H9,28[29;28H[?25h[?25l[37;118H30,4 [30;4H[?25h[?25l[37;119H1,1[31;1H[?25h[?25l[1;36r[36;1H
+[1;37r[36;1Happ.use(session([1m[96m{[m[37;118H[K[37;118H32,28[10C5%[31;28H[?25h[?25l[1;36r[36;1H
+[1;37r[36;6Hkey: [95m'dreamproject'[m,[37;118H[K[37;118H33,28[9C10%[31;28H[?25h[?25l[1;36r[36;1H
+[1;37r[36;6Hsecret: [95m'ecommerceapp'[m,[37;118H[K[37;118H34,28[9C15%[31;28H[?25h[?25l[1;36r[36;1H
+[1;37r[36;6Hstore: sessionStore,[37;118H[K[37;118H35,7[10C20%[31;7H[?25h[?25l[1;36r[36;1H
+[1;37r[36;6Hresave: [95mfalse[m,[37;118H[K[37;118H36,1[10C25%[31;1H[?25h[?25l[1;36r[36;1H
+[1;37r[36;6HsaveUninitialized: [95mfalse[m,[37;118H[K[37;118H37,18[9C30%[31;18H[?25h[?25l[1;36r[36;1H
+[1;37r[36;6Hcookie:[1m[96m{[m[37;118H[K[37;118H38,26[9C35%[31;26H[?25h[?25l[1;36r[36;1H
+[1;37r[36;11HmaxAge: (1825*86400*1000),[37;118H[K[37;118H39,28[9C40%[31;28H[?25h[?25l[1;36r[36;1H
+[1;37r[36;11HhttpOnly: [95mfalse[m[37;118H[K[37;118H40,26[9C45%[31;26H[?25h[?25l[1;36r[36;1H
+[1;37r[36;6H[1m[96m}[m[37;118H[K[37;118H41,20[9C50%[31;20H[?25h[?25l[1;36r[36;1H
+[1;37r[36;1H[1m[96m}[m));[37;118H[K[37;118H42,28[9C55%[31;28H[?25h[?25l[1;36r[36;1H
+[1;37r[37;118H[K[37;118H43,14[9C60%[31;13H[1m[96m[46m{[34;6H}[31;14H[?25h[?25l[1;36r[m[36;1H
+[1;37r[36;1H[93mnew[m Router(app,db);[37;118H[K[37;118H44,28[9C65%[30;13H[1m[96m{[33;6H}[31;28H[?25h[?25l[1;36r[m[36;1H
+[1;37r[37;118H[K[37;118H45,26[9C70%[31;26H[?25h[?25l[1;36r[36;1H
+[1;37r[36;1Happ.get([95m'/'[m,[1m[96mfunction[m(req,res)[1m[96m{[m[37;118H[K[37;118H46,7[10C75%[28;13H[1m[96m[46m{[31;6H}[?25h[?25l[1;36r[m[36;1H
+[1;37r[36;6Hres.sendFile(path.join(__dirname, [95m'build'[m,[95m'index.html'[m));[37;118H[K[37;118H47,5[10C80%[27;13H[1m[96m{[30;6H}
+}[m));[?25h[?25l[1;36r[36;1H
+[1;37r[36;1H[1m[96m}[m);[37;118H[K[37;118H48,1[10C85%[31;1H[?25h[?25l[1;36r[36;1H
+[1;37r[36;1Happ.listen(3000);[37;118H[K[37;118H49,20[9C90%[31;20H[?25h[?25l[1;36r[36;1H
+[1;37r[37;118H[K[37;118H50,1[10C95%[31;1H[?25h[?25l[1;36r[36;1H
+[1;37r[36;1H[96m/*0222022844 Central Bank */[m[37;118H[K[37;118H51,28[9CBot[31;28H[?25h[?25l[32;28H[46m([31C)[m[37;119H2[32;28H[?25h[?25l([31C)[37;119H3,4 [33;4H[?25h[?25l[37;119H4,18[34;18H[?25h[?25l[37;119H5,1 [35;1H[?25h[?25l[37;119H6,28[36;28H[?25h[?25l[37;122H7[36;27H[?25h[?25l[37;122H6[36;26H[?25h[?25l[37;122H5[36;25H[?25h[?25l[37;122H4[36;24H[?25h[?25l[37;122H3[36;23H[?25h[?25l[37;122H2[36;22H[?25h[?25l[37;122H1[36;21H[?25h[?25l[37;122H0[36;20H[?25h[?25l[37;121H19[36;19H[?25h[?25l[37;122H8[36;18H[?25h[?25l[37;122H7[36;17H[?25h[?25l[37;122H6[36;16H[?25h[?25l[37;122H5[36;15H[?25h[?25l[37;122H4[36;14H[?25h[?25l[37;122H3[36;13H[?25h[?25l[37;122H2[36;12H[?25h[?25l[37;122H1[36;11H[?25h[?25l[37;122H0[36;10H[?25h[?25l[37;121H9 [36;9H[?25h[?25l[37;121H8[36;8H[?25h[?25l[37;121H7[36;7H[?25h[?25l[37;121H6[36;6H[?25h[?25l[37;121H5[36;5H[?25h[?25l[37;121H4[36;4H[?25h[?25l[37;121H3[36;3H[?25h[?25l[96mi0222022844 Central Bank */[m[37;121H4[36;4H[?25h[?25l[96m0222022844 Central Bank */[m[36;29H[K[37;121H3[36;3H[?25h[?25l[96m60222022844 Central Bank */[m[37;121H4[36;4H[?25h[?25l[37;119H5,1[35;1H[?25h[?25l[37;119H4,4[34;4H[?25h[?25l[37;119H3[33;4H[?25h[?25l[37;119H2[32;4H[?25h[?25l[37;119H1[31;4H[?25h[?25l[37;119H0,1[30;1H[?25h[?25l[37;118H49,4[29;4H[?25h[?25l[37;119H8,1[28;1H[?25h[?25l[17;8H[46m([27;3H)[m[37;119H7,4[27;4H[?25h[?25l[17;8H([27;3H)[37;119H6[26;4H[?25h[?25l[37;119H5[25;4H[?25h[?25l[37;119H4[24;4H[?25h[?25l[37;119H3[23;4H[?25h[?25l[37;119H2[22;4H[?25h[?25l[37;119H1[21;4H[?25h[?25l[37;119H0[20;4H[?25h[?25l[37;118H39[19;4H[?25h[?25l[37;119H8[18;4H[?25h[?25l[37;119H7[17;4H[?25h[?25l[37;119H6,1[16;1H[?25h[?25l[37;119H5,4[15;4H[?25h[?25l[37;119H4[14;4H[?25h[?25l[37;119H3[13;4H[?25h[?25l[37;119H2[12;4H[?25h[?25l[37;119H1,1[11;1H[?25h[?25l[37;119H0,4[10;4H[?25h[?25l[37;118H29[9;4H[?25h[?25l[37;119H8[8;4H[?25h[?25l[37;119H7[7;4H[?25h[?25l[37;119H6[6;4H[?25h[?25l[1;36r[1;1H[L[1;37r[1;6Hdatabase: [95m'user'[m[37;118H[K[37;118H25,4[10C95%[6;4H[?25h[?25l[1;36r[1;1H[L[1;37r[1;6Hpassword:[95m''[m,[37;118H[K[37;118H24,4[10C90%[6;4H[?25h[?25l[1;36r[1;1H[L[1;37r[1;6Huser: [95m'puscd'[m,[37;118H[K[37;118H23,4[10C85%[6;4H[?25h[?25l[1;36r[1;1H[L[1;37r[1;6Hip: [95m'3306'[m,[37;118H[K[37;118H22,1[10C80%[6;1H[?25h[?25l[1;36r[1;1H[L[1;37r[1;6Hhost: [95m'172.17.0.2'[m,[37;118H[K[37;118H21,4[10C75%[6;4H[?25h[?25l[1;36r[1;1H[L[1;37r[1;1H[93mconst[m db= mysql.createConnection([1m[96m{[m[37;118H[K[37;118H20,4[10C70%[6;4H[?25h[?25l[1;36r[1;1H[L[1;37r[37;118H[K[37;118H19,4[10C65%[6;4H[?25h[?25l[1;36r[1;1H[L[1;37r[1;1H[96m//Database[m[37;118H[K[37;118H18,4[10C60%[6;4H[?25h[?25l[1;36r[1;1H[L[1;37r[1;1Hconsole.log([95m'Testing Server'[m)[37;118H[K[37;118H17,4[10C55%[6;4H[?25h[?25l[1;36r[1;1H[L[1;37r[37;118H[K[37;118H16,4[10C50%[6;4H[?25h[?25l[1;36r[1;1H[L[1;37r[1;1Happ.use(express.json());[37;118H[K[37;118H15,4[10C45%[6;4H[?25h[?25l[1;36r[1;1H[L[1;37r[1;1Happ.use(express.[93mstatic[m(path.join(__dirname,[95m'build'[m)));[37;118H[K[37;118H14,1[10C40%[6;1H[?25h[?25l[1;36r[1;1H[L[1;37r[37;118H[K[37;118H13,4[10C35%[6;4H[?25h[?25l[1;36r[1;1H[L[1;37r[1;1H[93mconst[m Router =require([95m'./Router'[m);[37;118H[K[37;118H12,4[10C30%[6;4H[?25h[?25l[1;36r[1;1H[L[1;37r[1;1H[93mconst[m MySqlStore= require([95m'express-mysql-session'[m)(session);[37;118H[K[37;118H11,1[10C25%[6;1H[?25h[?25l[1;36r[1;1H[L[1;37r[1;1H[93mconst[m session= require([95m'express-session'[m);[37;118H[K[37;118H10,4[10C20%[6;4H[?25h[?25l[1;36r[1;1H[4L[1;37r[1;1H[93mconst[m express= require([95m'express'[m);
+[93mconst[m app = express();
+[93mconst[m path =require([95m'path'[m);
+[93mconst[m mysql= require([95m'mysql'[m);[37;118H[K[37;118H4,4[11CTop[4;4H[?25h[?25l[37;118H3[3;4H[?25h[?25l[37;118H2[2;4H[?25h[?25l[37;118H1[1;4H[?25h[?25l[37;118H2[2;4H[?25h[?25l[37;118H3[3;4H[?25h[?25l[37;118H4[4;4H[?25h[?25l[37;118H5[5;4H[?25h[?25l[37;118H6[6;4H[?25h[?25l[37;118H7[7;4H[?25h[?25l[37;118H8,1[8;1H[?25h[?25l[37;118H9,4[9;4H[?25h[?25l[37;118H10,4[10;4H[?25h[?25l[37;119H1,1[11;1H[?25h[?25l[37;119H2,4[12;4H[?25h[?25l[37;119H3[13;4H[?25h[?25l[37;119H4,1[14;1H[?25h[?25l[37;119H5,4[15;4H[?25h[?25l[37;119H6[16;4H[?25h[?25l[37;119H7[17;4H[?25h[?25l[37;119H8[18;4H[?25h[?25l[37;119H9[19;4H[?25h[?25l[37;118H20[20;4H[?25h[?25l[37;119H1[21;4H[?25h[?25l[37;119H0[20;4H[?25h[?25l[37;118H19[19;4H[?25h[?25l[37;119H8[18;4H[?25h[?25l[37;119H7[17;4H[?25h[?25l[37;119H6[16;4H[?25h[37;1H[K[16;3H[?25l[37;108H^[[16;3H[37;108H  [16;4H[37;118H16,3[10CTop[16;3H[?25h[?25l[37;108H:[16;3H[37;108H[K[37;1H:[?2004h[?25h [?25l[16;3H[37;118H16,3[10CTop[16;3H[?25h[?25l[37;108Hi[16;3H[37;108H [16;3H[37;1H[1m-- INSERT --[m[37;118H[K[37;118H16,3[10CTop[16;3H[?25h[?25l[37;119H5[15;3H[?25h[37;1H[K[15;2H[?25l[37;108H^[[15;2H[37;108H  [15;3H[37;118H15,2[10CTop[15;2H[?25h[?25l[37;108H:[15;2H[37;108H[K[37;1H:[?2004h[?25hw[?25l[?25hq[?25l[?25h[?25l[?2004l"Main.js" 56L, 1232C written
+[?2004l[?1l>[?25h[?1049l[23;0;0t[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdok[Kcker ps
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdocker ps[K[Kimages
+REPOSITORY                      TAG                 IMAGE ID            CREATED             SIZE
+react-3                         latest              0cec8a872e79        6 hours ago         1.27GB
+mysql                           latest              a7a67c95e831        2 days ago          541MB
+node                            alpine              ea308280893e        8 days ago          117MB
+node                            latest              90a518fb4070        8 days ago          941MB
+nginx                           1.16.1-alpine       5fad07aba15a        3 months ago        21.8MB
+mysql-nginx-docker/my-project   latest              fb2d787e4236        3 months ago        18MB
+reverse-proxy_proxy             latest              152393233ce6        3 months ago        108MB
+node                            12.2.0-alpine       f391dabf9dce        11 months ago       77.7MB
+mysql                           8.0.2               f693302d97a2        2 years ago         266MB
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdocker tag mysql [K-img mysql
+Error response from daemon: No such image: mysql-img:latest
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdocker tag mysql-img mysql[1P mysql[1P mysql[1P mysql[1P mysql[1P mysql[1P mysql[1P mysql[1P mysql[1P mysql[C[C[C[C[C[C mysql-img
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdokcer [K[K[K[K[Kcker rmi -f mysql
+Untagged: mysql:latest
+Untagged: mysql@sha256:61a2a33f4b8b4bc93b7b6b9e65e64044aaec594809f818aeffbff69a893d1944
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[m[H[2J[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdocker rmi -f mysql[C[C[C[C[C[C[C[C[Ctag  mysql mysql-img[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pmysql-img mysql[C[C[C[C[C[C[C[C[Cimages[K
+REPOSITORY                      TAG                 IMAGE ID            CREATED             SIZE
+react-3                         latest              0cec8a872e79        6 hours ago         1.27GB
+mysql-img                       latest              a7a67c95e831        2 days ago          541MB
+node                            alpine              ea308280893e        8 days ago          117MB
+node                            latest              90a518fb4070        8 days ago          941MB
+nginx                           1.16.1-alpine       5fad07aba15a        3 months ago        21.8MB
+mysql-nginx-docker/my-project   latest              fb2d787e4236        3 months ago        18MB
+reverse-proxy_proxy             latest              152393233ce6        3 months ago        108MB
+node                            12.2.0-alpine       f391dabf9dce        11 months ago       77.7MB
+mysql                           8.0.2               f693302d97a2        2 years ago         266MB
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdocker imagesrmi -f mysql[C[C[C[C[C[C[C[C[Ctag  mysql mysql-img[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pmysql-img mysql[C[C[C[C[C[C[C[C[Cimages[K[4Pps[C[Cvim Main.js [C[Cls[Kvim Main.js 
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;37r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[37;1H"Main.js" 56L, 1232C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H[38;5;130mconst[m express= require([31m'express'[m);
+[38;5;130mconst[m app = express();
+[38;5;130mconst[m path =require([31m'path'[m);
+[38;5;130mconst[m mysql= require([31m'mysql'[m);
+[38;5;130mconst[m session= require([31m'express-session'[m);
+[38;5;130mconst[m MySqlStore= require([31m'express-mysql-session'[m)(session);
+[38;5;130mconst[m Router =require([31m'./Router'[m);
+
+app.use(express.[38;5;130mstatic[m(path.join(__dirname,[31m'build'[m)));
+app.use(express.json());
+
+console.log([31m'Testing Server'[m)
+[34m//Database[m
+
+[38;5;130mconst[m db= mysql.createConnection([36m{[m[16;6Hhost: [31m'172.17.0.2'[m,[17;6Hip: [31m'3306'[m,[18;6Huser: [31m'puscd'[m,[19;6Hpassword:[31m''[m,[20;6Hdatabase: [31m'user'[m
+[36m}[m);
+
+db.connect([36mfunction[m(err)[36m{[m[24;6H[38;5;130mif[m(err)[36m{[m[25;11Hconsole.log([31m'DB Error'[m);[26;11H[38;5;130mthrow[m err;[27;11H[38;5;130mreturn[m [31mfalse[m;[28;6H[36m}[m[29;6H[38;5;130melse[m console.log([31m'Successfully Connected To DB'[m)
+[36m}[m);
+
+[38;5;130mconst[m sessionStore= [38;5;130mnew[m MySqlStore([36m{[m[33;6Hexpiration: (1825*86400*1000),[34;6HendConnectionOnClose: [31mfalse[m
+[36m}[m,db);[37;118H15,2[10CTop[15;2H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[27m[23m[29m[m[H[2J[?25l[1;1H[93mconst[m express= require([95m'express'[m);
+[93mconst[m app = express();
+[93mconst[m path =require([95m'path'[m);
+[93mconst[m mysql= require([95m'mysql'[m);
+[93mconst[m session= require([95m'express-session'[m);
+[93mconst[m MySqlStore= require([95m'express-mysql-session'[m)(session);
+[93mconst[m Router =require([95m'./Router'[m);
+
+app.use(express.[93mstatic[m(path.join(__dirname,[95m'build'[m)));
+app.use(express.json());
+
+console.log([95m'Testing Server'[m)
+[96m//Database[m
+
+[93mconst[m db= mysql.createConnection([1m[96m{[m[16;6Hhost: [95m'172.17.0.2'[m,[17;6Hip: [95m'3306'[m,[18;6Huser: [95m'puscd'[m,[19;6Hpassword:[95m''[m,[20;6Hdatabase: [95m'user'[m
+[1m[96m}[m);
+
+db.connect([1m[96mfunction[m(err)[1m[96m{[m[24;6H[93mif[m(err)[1m[96m{[m[25;11Hconsole.log([95m'DB Error'[m);[26;11H[93mthrow[m err;[27;11H[93mreturn[m [95mfalse[m;[28;6H[1m[96m}[m[29;6H[93melse[m console.log([95m'Successfully Connected To DB'[m)
+[1m[96m}[m);
+
+[93mconst[m sessionStore= [93mnew[m MySqlStore([1m[96m{[m[33;6Hexpiration: (1825*86400*1000),[34;6HendConnectionOnClose: [95mfalse[m
+[1m[96m}[m,db);[37;118H15,2[10CTop"Main.js" 56L, 1232C[15;2H[?25h[?25l[37;108H~@k[15;2H[37;108H   [16;2H[37;119H6[16;2H[?25h[?25l[37;108H~@k[16;2H[37;108H   [17;2H[37;119H7[17;2H[?25h[?25l[37;108H~@k[17;2H[37;108H   [16;2H[37;119H6[16;2H[?25h[?25l[37;108H~@k[16;2H[37;108H   [16;3H[37;121H3[16;3H[?25h[?25l[37;108H~@k[16;3H[37;108H   [16;4H[37;121H4[16;4H[?25h[?25l[37;108H~@k[16;4H[37;108H   [16;5H[37;121H5[16;5H[?25h[?25l[37;108H~@k[16;5H[37;108H   [16;6H[37;121H6[16;6H[?25h[?25l[37;108H~@k[16;6H[37;108H   [16;7H[37;121H7[16;7H[?25h[?25l[37;108H~@k[16;7H[37;108H   [16;8H[37;121H8[16;8H[?25h[?25l[37;108H~@k[16;8H[37;108H   [16;9H[37;121H9[16;9H[?25h[?25l[37;108H~@k[16;9H[37;108H   [16;10H[37;121H10[16;10H[?25h[?25l[37;108H~@k[16;10H[37;108H   [16;11H[37;122H1[16;11H[?25h[?25l[37;108H~@k[16;11H[37;108H   [16;12H[37;122H2[16;12H[?25h[?25l[37;108H~@k[16;12H[37;108H   [16;13H[37;122H3[16;13H[?25h[?25l[37;108H~@k[16;13H[37;108H   [16;14H[37;122H4[16;14H[?25h[?25l[37;108H~@k[16;14H[37;108H   [16;15H[37;122H5[16;15H[?25h[?25l[37;108Hi[16;15H[37;108H [16;15H[37;1H[1m-- INSERT --[m[37;13H[K[37;118H16,15[9CTop[16;15H[?25h[?25l[95m2.17.0.2'[m,[16;24H[K[37;122H4[16;14H[?25h[?25l[1C[95m2.17.0.2'[m,[37;122H5[16;15H[?25h[?25l[37;122H6[16;16H[?25h[?25l[95m.17.0.2'[m,[16;24H[K[37;122H5[16;15H[?25h[?25l[95m7.17.0.2'[m,[37;122H6[16;16H[?25h[?25l[37;122H7[16;17H[?25h[?25l[37;122H8[16;18H[?25h[?25l[37;122H9[16;19H[?25h[?25l[95m.0.2'[m,[16;24H[K[37;122H8[16;18H[?25h[?25l[95m.0.2'[m,[16;23H[K[37;122H7[16;17H[?25h[?25l[95m0.2'[m,[16;22H[K[37;122H6[16;16H[?25h[?25l[37;122H7[16;17H[?25h[?25l[37;122H8[16;18H[?25h[?25l[37;122H9[16;19H[?25h[?25l[95m12'[m,[37;121H20[16;20H[?25h[?25l[95m,2'[m,[37;122H1[16;21H[?25h[?25l[95m2'[m,[16;23H[K[37;122H0[16;20H[?25h[?25l[95m.2'[m,[37;122H1[16;21H[?25h[?25l[95m'[m,[16;23H[K[16;21H[?25h[?25l[95m1'[m,[37;122H2[16;22H[?25h[37;1H[K[16;21H[?25l[37;108H^[[16;21H[37;108H  [16;22H[37;118H16,21[9CTop[16;21H[?25h[?25l[37;108H:[16;21H[37;108H[K[37;1H:[?2004h[?25hw[?25l[?25hq[?25l[?25h[?25l[?2004l"Main.js" 56L, 1231C written
+[?2004l[?1l>[?25h[?1049l[23;0;0t[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mc[Kdocker images
+REPOSITORY                      TAG                 IMAGE ID            CREATED             SIZE
+react-3                         latest              0cec8a872e79        6 hours ago         1.27GB
+mysql-img                       latest              a7a67c95e831        2 days ago          541MB
+node                            alpine              ea308280893e        8 days ago          117MB
+node                            latest              90a518fb4070        8 days ago          941MB
+nginx                           1.16.1-alpine       5fad07aba15a        3 months ago        21.8MB
+mysql-nginx-docker/my-project   latest              fb2d787e4236        3 months ago        18MB
+reverse-proxy_proxy             latest              152393233ce6        3 months ago        108MB
+node                            12.2.0-alpine       f391dabf9dce        11 months ago       77.7MB
+mysql                           8.0.2               f693302d97a2        2 years ago         266MB
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mco[K[Kdocker images[C[C[1Pvim Main.js [C[Cdocker imagesrmi -f mysql[C[C[C[C[C[C[C[C[Ctag  mysql mysql-img[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pmysql-img mysql[C[C[C[C[C[C[C[C[Cimages[K
+REPOSITORY                      TAG                 IMAGE ID            CREATED             SIZE
+react-3                         latest              0cec8a872e79        6 hours ago         1.27GB
+mysql-img                       latest              a7a67c95e831        2 days ago          541MB
+node                            alpine              ea308280893e        8 days ago          117MB
+node                            latest              90a518fb4070        8 days ago          941MB
+nginx                           1.16.1-alpine       5fad07aba15a        3 months ago        21.8MB
+mysql-nginx-docker/my-project   latest              fb2d787e4236        3 months ago        18MB
+reverse-proxy_proxy             latest              152393233ce6        3 months ago        108MB
+node                            12.2.0-alpine       f391dabf9dce        11 months ago       77.7MB
+mysql                           8.0.2               f693302d97a2        2 years ago         266MB
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[m[H[2J[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdocker images
+REPOSITORY                      TAG                 IMAGE ID            CREATED             SIZE
+react-3                         latest              0cec8a872e79        6 hours ago         1.27GB
+mysql-img                       latest              a7a67c95e831        2 days ago          541MB
+node                            alpine              ea308280893e        8 days ago          117MB
+node                            latest              90a518fb4070        8 days ago          941MB
+nginx                           1.16.1-alpine       5fad07aba15a        3 months ago        21.8MB
+mysql-nginx-docker/my-project   latest              fb2d787e4236        3 months ago        18MB
+reverse-proxy_proxy             latest              152393233ce6        3 months ago        108MB
+node                            12.2.0-alpine       f391dabf9dce        11 months ago       77.7MB
+mysql                           8.0.2               f693302d97a2        2 years ago         266MB
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[m(reverse-i-search)`': r': docker imagesu': docker run -it mysql /bin/bash[1@n[C[C[C[C[C[C[C[C[C[C[23P[97m$ (B[m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C- /bin/bashi /bin/bashm /bin/bashg /bin/bash
+root@806b896fcdce:/# [Kroot@806b896fcdce:/# exit
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[m(reverse-i-search)`': n': docker run -it mysql-img /bin/bash[C[6@failed reverse-i-search)`[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[29Preverse-i-search)`N': cd KALYANI/[C[8@failed reverse-i-search)`Ne[C[C[C[C[C[C[C[C[C[C[C[1@t[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[27P[97m$ (B[m[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Ka -iah[C[C[C[1P -iah[K[K[K[K[K[Kdocker run -it mysql-img /bin.[K/bash
+root@169ae3aed6c3:/# [Kroot@169ae3aed6c3:/# exit
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdocker run -it mysql-img /bin/bash[C[C[C[C[C[C[C[C[Cimages[K[C[C[1Pvim Main.js [C[Cdocker imagesrmi -f mysql[C[C[C[C[C[C[C[C[Ctag  mysql mysql-img[C[C[C[C[C[C[C[C[C[C[C[C[C[1Pmysql-img mysql\[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kdocker tag  mysql mysql-img[C[C[C[C[C[C[C[C[C[8Prmi -f mysql[C[C[C[C[C[C[C[C[Ctag  mysql mysql-img[C[C[Kdocker images[4Pps[C[Cvim Main.js [C[Cls[Kcd backend/[C[Cdocker run -it mysql /bin/bash[C[C[C[C[C[C[C[C[Cimages[Krun -it mysql /bin/bash
+Unable to find image 'mysql:latest' locally
+^C
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdocker run -it mysql /bin/bash- /bin/bashi /bin/bashm /bin/bashg /bin/bash
+root@119a7cd99a9b:/# [Kroot@119a7cd99a9b:/# ^C
+root@119a7cd99a9b:/# exit
+exit
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[msudo service mysqld stop
+[sudo] password for puscd: 
+Failed to stop mysqld.service: Unit mysqld.service not loaded.
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[msudo service mysqld stop[C[Cdocker run -it mysql-img /bin/bash[4P /bin/bash[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kdocke r[K[Kr images
+REPOSITORY                      TAG                 IMAGE ID            CREATED             SIZE
+react-3                         latest              0cec8a872e79        7 hours ago         1.27GB
+mysql-img                       latest              a7a67c95e831        2 days ago          541MB
+mysql                           latest              a7a67c95e831        2 days ago          541MB
+node                            alpine              ea308280893e        8 days ago          117MB
+node                            latest              90a518fb4070        8 days ago          941MB
+nginx                           1.16.1-alpine       5fad07aba15a        3 months ago        21.8MB
+mysql-nginx-docker/my-project   latest              fb2d787e4236        3 months ago        18MB
+reverse-proxy_proxy             latest              152393233ce6        3 months ago        108MB
+node                            12.2.0-alpine       f391dabf9dce        11 months ago       77.7MB
+mysql                           8.0.2               f693302d97a2        2 years ago         266MB
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdocker images
+REPOSITORY                      TAG                 IMAGE ID            CREATED             SIZE
+react-3                         latest              0cec8a872e79        7 hours ago         1.27GB
+mysql-img                       latest              a7a67c95e831        2 days ago          541MB
+mysql                           latest              a7a67c95e831        2 days ago          541MB
+node                            alpine              ea308280893e        8 days ago          117MB
+node                            latest              90a518fb4070        8 days ago          941MB
+nginx                           1.16.1-alpine       5fad07aba15a        3 months ago        21.8MB
+mysql-nginx-docker/my-project   latest              fb2d787e4236        3 months ago        18MB
+reverse-proxy_proxy             latest              152393233ce6        3 months ago        108MB
+node                            12.2.0-alpine       f391dabf9dce        11 months ago       77.7MB
+mysql                           8.0.2               f693302d97a2        2 years ago         266MB
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdokce [K[K[K[Kcker ps
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                               NAMES
+a9b2aea6c4f3        mysql-img           "docker-entrypoint.s…"   6 minutes ago       Up 6 minutes        0.0.0.0:3306->3306/tcp, 33060/tcp   mysql-img
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdocker ps
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                               NAMES
+a9b2aea6c4f3        mysql-img           "docker-entrypoint.s…"   8 minutes ago       Up 8 minutes        0.0.0.0:3306->3306/tcp, 33060/tcp   mysql-img
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdocker ps
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                               NAMES
+a9b2aea6c4f3        mysql-img           "docker-entrypoint.s…"   9 minutes ago       Up 9 minutes        0.0.0.0:3306->3306/tcp, 33060/tcp   mysql-img
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdc[K[Kdocker ps
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS               NAMES
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdocker [K-compose build
+sqldb uses an image, skipping
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdocker images
+REPOSITORY                      TAG                 IMAGE ID            CREATED             SIZE
+react-3                         latest              0cec8a872e79        7 hours ago         1.27GB
+mysql-img                       latest              a7a67c95e831        2 days ago          541MB
+mysql                           latest              a7a67c95e831        2 days ago          541MB
+node                            alpine              ea308280893e        8 days ago          117MB
+node                            latest              90a518fb4070        8 days ago          941MB
+nginx                           1.16.1-alpine       5fad07aba15a        3 months ago        21.8MB
+mysql-nginx-docker/my-project   latest              fb2d787e4236        3 months ago        18MB
+reverse-proxy_proxy             latest              152393233ce6        3 months ago        108MB
+node                            12.2.0-alpine       f391dabf9dce        11 months ago       77.7MB
+mysql                           8.0.2               f693302d97a2        2 years ago         266MB
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdocker images[K[K[K[K[K[Kps -a
+CONTAINER ID        IMAGE                 COMMAND                  CREATED             STATUS                        PORTS               NAMES
+1998c81ef8bc        mysql:latest          "docker-entrypoint.s…"   8 minutes ago       Exited (0) 7 minutes ago                          mysql-img
+119a7cd99a9b        mysql-img             "docker-entrypoint.s…"   42 minutes ago      Exited (130) 34 minutes ago                       priceless_knuth
+169ae3aed6c3        mysql-img             "docker-entrypoint.s…"   44 minutes ago      Exited (0) 43 minutes ago                         kind_yalow
+806b896fcdce        mysql-img             "docker-entrypoint.s…"   46 minutes ago      Exited (0) 46 minutes ago                         youthful_darwin
+c635e381e380        mysql                 "docker-entrypoint.s…"   2 hours ago         Exited (130) 59 minutes ago                       sweet_hodgkin
+1c3713dd63b1        mysql                 "docker-entrypoint.s…"   2 hours ago         Exited (0) 2 hours ago                            eloquent_margulis
+b7aa4e576f23        react-3               "docker-entrypoint.s…"   7 hours ago         Exited (0) 7 hours ago                            zen_gagarin
+f22ff3f90dc6        3f4a044241cf          "docker-entrypoint.s…"   7 days ago          Exited (0) 7 days ago                             naughty_goodall
+5eaeb01b2df0        3f4a044241cf          "docker-entrypoint.s…"   8 days ago          Exited (0) 8 days ago                             brave_thompson
+4e6ee74b2811        cd6858f0b629          "nginx -g 'daemon of…"   8 days ago          Exited (0) 8 days ago                             eloquent_jang
+6f15e29a3045        cd6858f0b629          "nginx -g 'daemon of…"   8 days ago          Exited (0) 8 days ago                             mystifying_lehmann
+d96427f0ae7e        cd6858f0b629          "nginx -g 'daemon of…"   8 days ago          Exited (0) 8 days ago                             silly_heisenberg
+7405d72bd20e        cd6858f0b629          "nginx -g 'daemon of…"   8 days ago          Exited (0) 8 days ago                             vibrant_ptolemy
+e23becaa17b8        23bc636c6944          "nginx -g 'daemon of…"   8 days ago          Exited (1) 8 days ago                             confident_snyder
+51a49aba4e29        23bc636c6944          "nginx -g 'daemon of…"   8 days ago          Exited (1) 8 days ago                             stoic_burnell
+f1ea47324ef6        23bc636c6944          "nginx -g 'daemon of…"   8 days ago          Exited (1) 8 days ago                             nice_kare
+74b3e5afffb4        28959a77e9c7          "nginx -g 'daemon of…"   8 days ago          Exited (1) 8 days ago                             zealous_chatterjee
+585a2f60395d        28959a77e9c7          "nginx -g 'daemon of…"   8 days ago          Exited (1) 8 days ago                             gracious_volhard
+ca5806b2908a        b6a7510d2eff          "/bin/sh -c 'npm ins…"   8 days ago          Exited (1) 8 days ago                             agitated_payne
+c97aec9c6c22        6ed5c5ab2de6          "docker-entrypoint.s…"   8 days ago          Exited (0) 8 days ago                             bold_agnesi
+2398f9952ff6        6ed5c5ab2de6          "docker-entrypoint.s…"   8 days ago          Exited (0) 8 days ago                             affectionate_bouman
+b04e49671c0d        6ed5c5ab2de6          "docker-entrypoint.s…"   8 days ago          Exited (0) 8 days ago                             hungry_shamir
+a4354625fc56        reverse-proxy_proxy   "nginx -g 'daemon of…"   3 months ago        Created                                           reverse-proxy_proxy_1_3933a4b1453a
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdocker container stop $(docker container ls -aq)
+1998c81ef8bc
+119a7cd99a9b
+169ae3aed6c3
+806b896fcdce
+c635e381e380
+1c3713dd63b1
+b7aa4e576f23
+f22ff3f90dc6
+5eaeb01b2df0
+4e6ee74b2811
+6f15e29a3045
+d96427f0ae7e
+7405d72bd20e
+e23becaa17b8
+51a49aba4e29
+f1ea47324ef6
+74b3e5afffb4
+585a2f60395d
+ca5806b2908a
+c97aec9c6c22
+2398f9952ff6
+b04e49671c0d
+a4354625fc56
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdocker container stop $(docker container ls -aq)[C[C[C[C[C[C[C[C[Cps -a[K
+CONTAINER ID        IMAGE                 COMMAND                  CREATED             STATUS                           PORTS               NAMES
+1998c81ef8bc        mysql:latest          "docker-entrypoint.s…"   12 minutes ago      Exited (0) 11 minutes ago                            mysql-img
+119a7cd99a9b        mysql-img             "docker-entrypoint.s…"   46 minutes ago      Exited (130) 38 minutes ago                          priceless_knuth
+169ae3aed6c3        mysql-img             "docker-entrypoint.s…"   48 minutes ago      Exited (0) 47 minutes ago                            kind_yalow
+806b896fcdce        mysql-img             "docker-entrypoint.s…"   50 minutes ago      Exited (0) 50 minutes ago                            youthful_darwin
+c635e381e380        mysql                 "docker-entrypoint.s…"   2 hours ago         Exited (130) About an hour ago                       sweet_hodgkin
+1c3713dd63b1        mysql                 "docker-entrypoint.s…"   2 hours ago         Exited (0) 2 hours ago                               eloquent_margulis
+b7aa4e576f23        react-3               "docker-entrypoint.s…"   7 hours ago         Exited (0) 7 hours ago                               zen_gagarin
+f22ff3f90dc6        3f4a044241cf          "docker-entrypoint.s…"   7 days ago          Exited (0) 7 days ago                                naughty_goodall
+5eaeb01b2df0        3f4a044241cf          "docker-entrypoint.s…"   8 days ago          Exited (0) 8 days ago                                brave_thompson
+4e6ee74b2811        cd6858f0b629          "nginx -g 'daemon of…"   8 days ago          Exited (0) 8 days ago                                eloquent_jang
+6f15e29a3045        cd6858f0b629          "nginx -g 'daemon of…"   8 days ago          Exited (0) 8 days ago                                mystifying_lehmann
+d96427f0ae7e        cd6858f0b629          "nginx -g 'daemon of…"   8 days ago          Exited (0) 8 days ago                                silly_heisenberg
+7405d72bd20e        cd6858f0b629          "nginx -g 'daemon of…"   8 days ago          Exited (0) 8 days ago                                vibrant_ptolemy
+e23becaa17b8        23bc636c6944          "nginx -g 'daemon of…"   8 days ago          Exited (1) 8 days ago                                confident_snyder
+51a49aba4e29        23bc636c6944          "nginx -g 'daemon of…"   8 days ago          Exited (1) 8 days ago                                stoic_burnell
+f1ea47324ef6        23bc636c6944          "nginx -g 'daemon of…"   8 days ago          Exited (1) 8 days ago                                nice_kare
+74b3e5afffb4        28959a77e9c7          "nginx -g 'daemon of…"   8 days ago          Exited (1) 8 days ago                                zealous_chatterjee
+585a2f60395d        28959a77e9c7          "nginx -g 'daemon of…"   8 days ago          Exited (1) 8 days ago                                gracious_volhard
+ca5806b2908a        b6a7510d2eff          "/bin/sh -c 'npm ins…"   8 days ago          Exited (1) 8 days ago                                agitated_payne
+c97aec9c6c22        6ed5c5ab2de6          "docker-entrypoint.s…"   8 days ago          Exited (0) 8 days ago                                bold_agnesi
+2398f9952ff6        6ed5c5ab2de6          "docker-entrypoint.s…"   8 days ago          Exited (0) 8 days ago                                affectionate_bouman
+b04e49671c0d        6ed5c5ab2de6          "docker-entrypoint.s…"   8 days ago          Exited (0) 8 days ago                                hungry_shamir
+a4354625fc56        reverse-proxy_proxy   "nginx -g 'daemon of…"   3 months ago        Created                                              reverse-proxy_proxy_1_3933a4b1453a
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdocker container rm $(docker container ls -aq)
+1998c81ef8bc
+119a7cd99a9b
+169ae3aed6c3
+806b896fcdce
+c635e381e380
+1c3713dd63b1
+b7aa4e576f23
+f22ff3f90dc6
+5eaeb01b2df0
+4e6ee74b2811
+6f15e29a3045
+d96427f0ae7e
+7405d72bd20e
+e23becaa17b8
+51a49aba4e29
+f1ea47324ef6
+74b3e5afffb4
+585a2f60395d
+ca5806b2908a
+c97aec9c6c22
+2398f9952ff6
+b04e49671c0d
+a4354625fc56
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdcoker[K[K[K[K[Kocker ps
+CONTAINER ID        IMAGE               COMMAND                  CREATED              STATUS              PORTS                    NAMES
+b64b8308f521        mysql:8.0.2         "docker-entrypoint.s…"   About a minute ago   Up About a minute   0.0.0.0:3306->3306/tcp   mysql-img
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdocker ps
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                    NAMES
+b64b8308f521        mysql:8.0.2         "docker-entrypoint.s…"   28 minutes ago      Up 28 minutes       0.0.0.0:3306->3306/tcp   mysql-img
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mmysql -u root -p
+Enter password: 
+ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mmysql -u root -p
+Enter password: 
+ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mmysql
+ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mmysql -u root -p[1P -p[1P -p[1P -p[1P -pp -pu -ps -pc -pd -p
+Enter password: 
+ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mmysql -u puscd -p\[K
+Enter password: 
+ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[msudo -s
+[sudo] password for puscd: 
+[1m
+[38;5;34m[root][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mmysql -u puc[Kscd =p[K[K-p
+Enter password: 
+ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[1m
+[38;5;34m[root][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mmysql -u puscd -p
+Enter password: 
+ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[1m
+[38;5;34m[root][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mmysql -u puscd -p
+Enter password: 
+ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[1m
+[38;5;34m[root][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mroo[K[K[Kmysql
+ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[1m
+[38;5;34m[root][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mmysqp -u root
+
+Command 'mysqp' not found, did you mean:
+
+  command 'mysql' from deb mysql-client-core-5.7
+  command 'mysql' from deb mariadb-client-core-10.1
+
+Try: apt install <deb name>
+
+[1m
+[38;5;34m[root][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mmysqp -u root[1P[1@l
+ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[1m
+[38;5;34m[root][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mmysql -u root
+ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[1m
+[38;5;34m[root][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mmysql
+ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[1m
+[38;5;34m[root][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mexit
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mmysql
+ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdocker(reverse-i-search)`': docker[C[7@failed [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[27P[97m$ (B[mdocker
+
+Usage:	docker [OPTIONS] COMMAND
+
+A self-sufficient runtime for containers
+
+Options:
+      --config string      Location of client config files (default "/home/puscd/.docker")
+  -c, --context string     Name of the context to use to connect to the daemon (overrides DOCKER_HOST env var and default
+                           context set with "docker context use")
+  -D, --debug              Enable debug mode
+  -H, --host list          Daemon socket(s) to connect to
+  -l, --log-level string   Set the logging level ("debug"|"info"|"warn"|"error"|"fatal") (default "info")
+      --tls                Use TLS; implied by --tlsverify
+      --tlscacert string   Trust certs signed only by this CA (default "/home/puscd/.docker/ca.pem")
+      --tlscert string     Path to TLS certificate file (default "/home/puscd/.docker/cert.pem")
+      --tlskey string      Path to TLS key file (default "/home/puscd/.docker/key.pem")
+      --tlsverify          Use TLS and verify the remote
+  -v, --version            Print version information and quit
+
+Management Commands:
+  builder     Manage builds
+  config      Manage Docker configs
+  container   Manage containers
+  context     Manage contexts
+  engine      Manage the docker engine
+  image       Manage images
+  network     Manage networks
+  node        Manage Swarm nodes
+  plugin      Manage plugins
+  secret      Manage Docker secrets
+  service     Manage services
+  stack       Manage Docker stacks
+  swarm       Manage Swarm
+  system      Manage Docker
+  trust       Manage trust on Docker images
+  volume      Manage volumes
+
+Commands:
+  attach      Attach local standard input, output, and error streams to a running container
+  build       Build an image from a Dockerfile
+  commit      Create a new image from a container's changes
+  cp          Copy files/folders between a container and the local filesystem
+  create      Create a new container
+  diff        Inspect changes to files or directories on a container's filesystem
+  events      Get real time events from the server
+  exec        Run a command in a running container
+  export      Export a container's filesystem as a tar archive
+  history     Show the history of an image
+  images      List images
+  import      Import the contents from a tarball to create a filesystem image
+  info        Display system-wide information
+  inspect     Return low-level information on Docker objects
+  kill        Kill one or more running containers
+  load        Load an image from a tar archive or STDIN
+  login       Log in to a Docker registry
+  logout      Log out from a Docker registry
+  logs        Fetch the logs of a container
+  pause       Pause all processes within one or more containers
+  port        List port mappings or a specific mapping for the container
+  ps          List containers
+  pull        Pull an image or a repository from a registry
+  push        Push an image or a repository to a registry
+  rename      Rename a container
+  restart     Restart one or more containers
+  rm          Remove one or more containers
+  rmi         Remove one or more images
+  run         Run a command in a new container
+  save        Save one or more images to a tar archive (streamed to STDOUT by default)
+  search      Search the Docker Hub for images
+  start       Start one or more stopped containers
+  stats       Display a live stream of container(s) resource usage statistics
+  stop        Stop one or more running containers
+  tag         Create a tag TARGET_IMAGE that refers to SOURCE_IMAGE
+  top         Display the running processes of a container
+  unpause     Unpause all processes within one or more containers
+  update      Update configuration of one or more containers
+  version     Show the Docker version information
+  wait        Block until one or more containers stop, then print their exit codes
+
+Run 'docker COMMAND --help' for more information on a command.
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[m[H[2J[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdoc[K[K[K(reverse-i-search)`': d': docker[1@o[C[C[C[C[8@failed reverse-i-search)`dok[C[C[C[1@c[C[C[C[1@e[C[C[C[1@r[C[C[C[1@ [C[C[C[1P[C[C[C[1P[C[C[C[1P[C[C[C[1P[C[C[C[C[7Preverse-i-search)`do': sudo -s[1P[C[C[C[C[C[1@o[C[C[C[C[Cc': docker ps[1@k[C[C[C[1@e[C[C[C[1@r[C[C[C[1@ [C[C[C[C[8@failed reverse-i-search)`docker e[C[C[C[1@x[C[C[C[1@e[C[C[C[1@c[C[C[C[1@ [C[C[C[1@-[C[C[C[1@i[C[C[C[1@t[C[C[C[1@ [C[C[C^C
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdocker[K[K[K[K[K[Kdocker exec -it <container_id_or_name>[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kdcoker p[K[K[K[K[K[K[Kocker ps
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                    NAMES
+b64b8308f521        mysql:8.0.2         "docker-entrypoint.s…"   46 minutes ago      Up 10 minutes       0.0.0.0:3306->3306/tcp   mysql-img
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdocker exec -it b64b830
+"docker exec" requires at least 2 arguments.
+See 'docker exec --help'.
+
+Usage:  docker exec [OPTIONS] CONTAINER COMMAND [ARG...]
+
+Run a command in a running container
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdocker exec -it b64b830 /bin.[K/bsh[K[Kash
+root@b64b8308f521:/# ls
+bin   dev			  entrypoint.sh  home  lib64  mnt  proc  run   srv  tmp  var
+boot  docker-entrypoint-initdb.d  etc		 lib   media  opt  root  sbin  sys  usr
+root@b64b8308f521:/# mysql
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+root@b64b8308f521:/# mysql -u root -p
+Enter password: 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: NO)
+root@b64b8308f521:/# mysql -u root -p
+Enter password: 
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 8
+Server version: 8.0.2-dmr MySQL Community Server (GPL)
+
+Copyright (c) 2000, 2017, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> ^C
+mysql> exit
+Bye
+root@b64b8308f521:/# mysql -u root -p
+Enter password: 
+ERROR 1045 (28000): Access denied for user 'root'@'localhost' (using password: YES)
+root@b64b8308f521:/# mysql -u root -p
+Enter password: 
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 10
+Server version: 8.0.2-dmr MySQL Community Server (GPL)
+
+Copyright (c) 2000, 2017, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> exit
+Bye
+root@b64b8308f521:/# mysql -u root -p
+Enter password: 
+Welcome to the MySQL monitor.  Commands end with ; or \g.
+Your MySQL connection id is 11
+Server version: 8.0.2-dmr MySQL Community Server (GPL)
+
+Copyright (c) 2000, 2017, Oracle and/or its affiliates. All rights reserved.
+
+Oracle is a registered trademark of Oracle Corporation and/or its
+affiliates. Other names may be trademarks of their respective
+owners.
+
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
+
+mysql> 
+mysql> create user test [K[K[K[K''t'e's't'' [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[KDROP USER 'root'@'localhost';
+Query OK, 0 rows affected (0.06 sec)
+
+mysql> CREATE USER ''r'o'o't''@''l'o'c'a'l''[Kl'h'o's't'
+    -> ^C
+mysql> CREATE USER 'root'@'localhost';
+Query OK, 0 rows affected (0.05 sec)
+
+mysql> CREATE USER 'root'@'%' IDENTIFIED BY '';[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[KGRANT ALL PRIVILEGES ON *.* TO 'root'@'%' WITH GRANT OPTION;[P'[1@l'[1@o'[1@c'[1@a'[1@l'[1@h'[1@o'[1@s'[1@t'
+Query OK, 0 rows affected, 1 warning (0.06 sec)
+
+mysql> FLUSH PRIVILEGES;
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> SELECT User,Host FROM mysql.user;
++-----------+-----------+
+| User      | Host      |
++-----------+-----------+
+| root      | %         |
+| mysql.sys | localhost |
+| root      | localhost |
++-----------+-----------+
+3 rows in set (0.00 sec)
+
+mysql> drop user [K[K[K[K[K[K[K[KDROP USER 'root'@'localhost';
+Query OK, 0 rows affected (0.05 sec)
+
+mysql> DROP USER 'root'@'localhost';[8GSELECT User,Host FROM mysql.user;
++-----------+-----------+
+| User      | Host      |
++-----------+-----------+
+| root      | %         |
+| mysql.sys | localhost |
++-----------+-----------+
+2 rows in set (0.01 sec)
+
+mysql> SELECT User,Host FROM mysql.user;[8GDROP USER 'root'@'localhost';[K';[K';[K';[K';[K';[K';[K';[K';[K';[K%';
+Query OK, 0 rows affected (0.04 sec)
+
+mysql> DROP USER 'root'@'%';[8GSELECT User,Host FROM mysql.user;
++-----------+-----------+
+| User      | Host      |
++-----------+-----------+
+| mysql.sys | localhost |
++-----------+-----------+
+1 row in set (0.00 sec)
+
+mysql> SELECT User,Host FROM mysql.user;[8GDROP USER 'root'@'%';[K[8GSELECT User,Host FROM mysql.user;[8GDROP USER 'root'@'localhost';[K;[8GSELECT User,Host FROM mysql.user;[8GFLUSH PRIVILEGES;[K[8GGRANT ALL PRIVILEGES ON *.* TO 'root'@'localhost' WITH GRANT OPTION;[8GCREATE USER 'root'@'localhost';[K
+Query OK, 0 rows affected (0.09 sec)
+
+mysql> CREATE USER 'root'@'localhost';[8GSELECT User,Host FROM mysql.user;[8GDROP USER 'root'@'%';[K[8GSELECT User,Host FROM mysql.user;[8GDROP USER 'root'@'localhost';[K[8GSELECT User,Host FROM mysql.user;[8GFLUSH PRIVILEGES;[K[8GGRANT ALL PRIVILEGES ON *.* TO 'root'@'localhost' WITH GRANT OPTION;
+Query OK, 0 rows affected, 1 warning (0.10 sec)
+
+mysql> GRANT ALL PRIVILEGES ON *.* TO 'root'@'localhost' WITH GRANT OPTION;[8GCREATE USER 'root'@'localhost';[K[8GSELECT User,Host FROM mysql.user;[8GDROP USER 'root'@'%';[K[8GSELECT User,Host FROM mysql.user;[8GDROP USER 'root'@'localhost';[K[8GSELECT User,Host FROM mysql.user;[8GFLUSH PRIVILEGES;[K
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> FLUSH PRIVILEGES;[8GGRANT ALL PRIVILEGES ON *.* TO 'root'@'localhost' WITH GRANT OPTION;[8GCREATE USER 'root'@'localhost';[K[8GSELECT User,Host FROM mysql.user;[8GDROP USER 'root'@'%';[K[8GSELECT User,Host FROM mysql.user;
++-----------+-----------+
+| User      | Host      |
++-----------+-----------+
+| mysql.sys | localhost |
+| root      | localhost |
++-----------+-----------+
+2 rows in set (0.00 sec)
+
+mysql> ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '';
+Query OK, 0 rows affected (0.09 sec)
+
+mysql> ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '';[8GSELECT User,Host FROM mysql.user;[K[8GFLUSH PRIVILEGES;[K
+Query OK, 0 rows affected (0.00 sec)
+
+mysql> FLUSH PRIVILEGES;[8GALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '';[8GSELECT User,Host FROM mysql.user;[K
++-----------+-----------+
+| User      | Host      |
++-----------+-----------+
+| mysql.sys | localhost |
+| root      | localhost |
++-----------+-----------+
+2 rows in set (0.00 sec)
+
+mysql> SELECT User,Host FROM mysql.user;[8GFLUSH PRIVILEGES;[K[8GALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '';[8GSELECT User,Host FROM mysql.user;[K[8GFLUSH PRIVILEGES;[K[8GGRANT ALL PRIVILEGES ON *.* TO 'root'@'localhost' WITH GRANT OPTION;[8GCREATE USER 'root'@'localhost';[K[8GSELECT User,Host FROM mysql.user;[8GDROP USER 'root'@'%';[K[8GSELECT User,Host FROM mysql.user;[8GDROP USER 'root'@'%';[K';[Kk';';[Kl';o';c';a';l';h';o';t';
+ERROR 1396 (HY000): Operation DROP USER failed for 'root'@'localhot'
+mysql> DROP USER 'root'@'localhot';ost';
+Query OK, 0 rows affected (0.06 sec)
+
+mysql> DROP USER 'root'@'localhost';t';[K[8GSELECT User,Host FROM mysql.user;[8GFLUSH PRIVILEGES;[K[8GALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '';[8GSELECT User,Host FROM mysql.user;[K[8GFLUSH PRIVILEGES;[K[8GGRANT ALL PRIVILEGES ON *.* TO 'root'@'localhost' WITH GRANT OPTION;[8GCREATE USER 'root'@'localhost';[K[8GSELECT User,Host FROM mysql.user;[8GCREATE USER 'root'@'localhost';[K';[K';[K';[K';[K';[K';[K';[K';[K';[K;[K';[K;[K';[K';[K';[K';[K;[K';[K';[K';[K';[K';[K';[K';[K';[K';[K';[K';[K';[K;[K[KMYSQL_ROOT_PASSWORD: 'root'
+    -> ^C
+mysql> MYSQL_ROOT_PASSWORD: 'root'[8GDROP USER 'root'@'localhost';t';[K[8GSELECT User,Host FROM mysql.user;[8GFLUSH PRIVILEGES;[K[8GALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '';[8GSELECT User,Host FROM mysql.user;[K[8GFLUSH PRIVILEGES;[K[8GGRANT ALL PRIVILEGES ON *.* TO 'root'@'localhost' WITH GRANT OPTION;[8GCREATE USER 'root'@'localhost';[K[8GSELECT User,Host FROM mysql.user;[8GCREATE USER 'root'@'localhost';[K ;t[P'[P'[P'[P'[1@p'[1@u'[1@s'[1@c'[1@d''@'localhost' ;I;D;E;N;T;I;F;I;E;D; ;B;Y; ;';';
+Query OK, 0 rows affected (0.10 sec)
+
+mysql> CREATE USER 'puscd'@'localhost' IDENTIFIED BY '';[8GMYSQL_ROOT_PASSWORD: 'root'[K[8GDROP USER 'root'@'localhost';t';[K[8GSELECT User,Host FROM mysql.user;[8GFLUSH PRIVILEGES;[K[8GALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '';[8GSELECT User,Host FROM mysql.user;[K[8GFLUSH PRIVILEGES;[K[8GGRANT ALL PRIVILEGES ON *.* TO 'root'@'localhost' WITH GRANT OPTION;[8GCREATE USER 'root'@'localhost';[K[8GGRANT ALL PRIVILEGES ON *.* TO 'root'@'localhost' WITH GRANT OPTION;[P'[P'[P'[P'[1@p'[1@u'[1@c'[1@s'[1@d'[P'[P'[P'[1@s'[1@c'[1@d'
+Query OK, 0 rows affected, 1 warning (0.04 sec)
+
+mysql> FLUSH PRIVILEGES;
+Query OK, 0 rows affected (0.01 sec)
+
+mysql> SELECT User,Host FROM mysql.user;
++-----------+-----------+
+| User      | Host      |
++-----------+-----------+
+| mysql.sys | localhost |
+| puscd     | localhost |
++-----------+-----------+
+2 rows in set (0.00 sec)
+
+mysql> SELECT User,Host FROM mysql.user;[8GFLUSH PRIVILEGES;[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K''[K[Kcre[K[K[Kcreate table mylogin(
+    -> id int(11) AUTO_INCREMENT,
+    -> username varchar(13) NOT NULL,
+    -> pword varchar(100) NOT NULL,
+    -> PRIMARY KEY (id)
+    -> );
+ERROR 1046 (3D000): No database selected
+mysql> insert into mylogin(uname,pword) values('myadmin','$2b$09$sxbjhd51GTPGjMWrnL7oz.JdtlyA1HTei4WpMBdWKkGD1uVVg/P1y');
+ERROR 1046 (3D000): No database selected
+mysql> insert into mylogin(uname,pword) values('admin','$2b$09$sxbjhd51GTPGjMWrnL7oz.JdtlyA1HTei4WpMBdWKkGD1uVVg/P1y');
+ERROR 1046 (3D000): No database selected
+mysql> use[K[K[Kce[Kraete[K[K[K[Keate databse[K[Kase y[Kue[Kser;
+ERROR 1007 (HY000): Can't create database 'user'; database exists
+mysql> use user;
+Database changed
+mysql> create table mylogin(
+    -> id int(11) AUTO_INCREMENT,
+    -> username varchar(13) NOT NULL,
+    -> pword varchar(100) NOT NULL,
+    -> PRIMARY KEY (id)
+    -> );
+Query OK, 0 rows affected (0.69 sec)
+
+mysql> insert into mylogin(uname,pword) values('myadmin','$2b$09$sxbjhd51GTPGjMWrnL7oz.JdtlyA1HTei4WpMBdWKkGD1uVVg/P1y');
+ERROR 1054 (42S22): Unknown column 'uname' in 'field list'
+mysql> insert into mylogin(uname,pword) values('admin','$2b$09$sxbjhd51GTPGjMWrnL7oz.JdtlyA1HTei4WpMBdWKkGD1uVVg/P1y');
+ERROR 1054 (42S22): Unknown column 'uname' in 'field list'
+mysql> drop table mylogin;
+Query OK, 0 rows affected (0.33 sec)
+
+mysql> create table mylogin(
+    -> id int(11) AUTO_INCREMENT,
+    -> uname varchar(13) NOT NULL,
+    -> pword varchar(100) NOT NULL,
+    -> PRIMARY KEY (id)
+    -> );
+Query OK, 0 rows affected (0.45 sec)
+
+mysql> insert into mylogin(uname,pword) values('myadmin','$2b$09$sxbjhd51GTPGjMWrnL7oz.JdtlyA1HTei4WpMBdWKkGD1uVVg/P1y');
+Query OK, 1 row affected (0.03 sec)
+
+mysql> insert into mylogin(uname,pword) values('admin','$2b$09$sxbjhd51GTPGjMWrnL7oz.JdtlyA1HTei4WpMBdWKkGD1uVVg/P1y');
+Query OK, 1 row affected (0.05 sec)
+
+mysql> select *n from[Ko[Ko[Ko[Ko[Ko[Ko[K[K tt[Kt * from mylogin;
++----+---------+--------------------------------------------------------------+
+| id | uname   | pword                                                        |
++----+---------+--------------------------------------------------------------+
+|  1 | myadmin | $2b$09$sxbjhd51GTPGjMWrnL7oz.JdtlyA1HTei4WpMBdWKkGD1uVVg/P1y |
+|  2 | admin   | $2b$09$sxbjhd51GTPGjMWrnL7oz.JdtlyA1HTei4WpMBdWKkGD1uVVg/P1y |
++----+---------+--------------------------------------------------------------+
+2 rows in set (0.01 sec)
+
+mysql> [1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[m(reverse-i-search)`': e': docker exec -it b64b830 /bin/bash[1@r[C[C[C[C[C[C[C[8Pv': sudo service mysqld stop[1P[C[C[C[C[C[C[C[C[C[1P[C[C[C[C[C[C[C[C[C[C[6@failed reverse-i-search)`[C[C[C[C[C[C[C[C[C[C[6Preverse-i-search)`s[C[C[C[C[C[C[C[C[1@e[C[C[C[C[C[C[C[C[1@r[C[C[C[C[C[C[C[C[1@v[C[C[C[C[C[C[C[C[1@i[C[C[C[C[C[C[C[C[1@c[C[C[C[C[C[C[C[C[1@e[C[C[C[C[C[C[C[C[27P[97m$ (B[m[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P stop[C[C[1Pstop[C[C[1Ptop[1Pop[1Pp[K(reverse-i-search)`': m': docker run -it mysql-img /bin/bash[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@y[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@s[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@q[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@l[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[25P[97m$ (B[m[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P /bin/bash[1P/bin/bash[1Pbin/bash[1Pin/bash[1Pn/bash[1P/bash[1Pbash[1Pash[1Psh[1Ph[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kdocker run -it mysql /bin/bash-img /bin/bash
+root@bd294c18bc15:/# [Kroot@bd294c18bc15:/# s mysql
+ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+root@bd294c18bc15:/# mysql -u   u puscd -p
+Enter password: 
+ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+root@bd294c18bc15:/# mysql -u puscd -p
+Enter password: 
+ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+root@bd294c18bc15:/# mysql -u puscd -p
+Enter password: 
+ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+root@bd294c18bc15:/# mysql
+ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+root@bd294c18bc15:/# mysql -u puscd -p[1P[1P[1P[1P[1P[1@r[1@o[1@o[1@t
+Enter password: 
+ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+root@bd294c18bc15:/# mysql -u root -p
+Enter password: 
+ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+root@bd294c18bc15:/# mysql -u root -pt[1P[1P[1P[1P[1@p[1@u[1@s[1@c[1@d
+Enter password: 
+ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+root@bd294c18bc15:/# mysql -u puscd -p
+Enter password: 
+ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/var/run/mysqld/mysqld.sock' (2)
+root@bd294c18bc15:/# exit
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mls
+[0m[01;34mbuild[0m   dependencies.txt    Dockerfile    GenPass.js  [01;34mnode_modules[0m  package-lock.json
+db.txt  docker-compose.yml  dockerignore  Main.js     package.json  Router.js
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mvim docker-compose.yml 
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;37r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[37;1H"docker-compose.yml" 15L, 303C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H[36mversion[m[35m:[m [31m'3'[m
+[36mservices[m[35m:[m
+  [36msqldb[m[35m:[m
+    [36mcontainer_name[m[35m:[m mysql-img
+    [36mrestart[m[35m:[m always
+    [36mimage[m[35m:[m mysql:8.0.2
+    [36mports[m[35m:[m[8;7H[38;5;130m- [m[31m"3306:3306"[m
+    [36mexpose[m[35m:[m[10;7H[38;5;130m- [m[31m"3306"[m
+    [36menvironment[m[35m:[m[12;7H[36mMYSQL_ROOT_PASSWORD[m[35m:[m [31m'root'[m[13;7H[36mMYSQL_USER[m[35m :[m [31m'puscd'[m[14;7H[36mMYSQL_PASSWORD[m[35m:[m [31m''[m[15;7H[36mMYSQL_DATABASE[m[35m :[m [31m'user'[m
+[94m~                                                                                                                                      [17;1H~                                                                                                                                      [18;1H~                                                                                                                                      [19;1H~                                                                                                                                      [20;1H~                                                                                                                                      [21;1H~                                                                                                                                      [22;1H~                                                                                                                                      [23;1H~                                                                                                                                      [24;1H~                                                                                                                                      [25;1H~                                                                                                                                      [26;1H~                                                                                                                                      [27;1H~                                                                                                                                      [28;1H~                                                                                                                                      [29;1H~                                                                                                                                      [30;1H~                                                                                                                                      [31;1H~                                                                                                                                      [32;1H~                                                                                                                                      [33;1H~                                                                                                                                      [34;1H~                                                                                                                                      [35;1H~                                                                                                                                      [36;1H~                                                                                                                                      [m[37;118H10,14[9CAll[10;14H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[27m[23m[29m[m[H[2J[?25l[1;1H[1m[96mversion[m[38;5;224m:[m [95m'3'[m
+[1m[96mservices[m[38;5;224m:[m
+  [1m[96msqldb[m[38;5;224m:[m
+    [1m[96mcontainer_name[m[38;5;224m:[m mysql-img
+    [1m[96mrestart[m[38;5;224m:[m always
+    [1m[96mimage[m[38;5;224m:[m mysql:8.0.2
+    [1m[96mports[m[38;5;224m:[m[8;7H[93m- [m[95m"3306:3306"[m
+    [1m[96mexpose[m[38;5;224m:[m[10;7H[93m- [m[95m"3306"[m
+    [1m[96menvironment[m[38;5;224m:[m[12;7H[1m[96mMYSQL_ROOT_PASSWORD[m[38;5;224m:[m [95m'root'[m[13;7H[1m[96mMYSQL_USER[m[38;5;224m :[m [95m'puscd'[m[14;7H[1m[96mMYSQL_PASSWORD[m[38;5;224m:[m [95m''[m[15;7H[1m[96mMYSQL_DATABASE[m[38;5;224m :[m [95m'user'[m
+[94m~                                                                                                                                      [17;1H~                                                                                                                                      [18;1H~                                                                                                                                      [19;1H~                                                                                                                                      [20;1H~                                                                                                                                      [21;1H~                                                                                                                                      [22;1H~                                                                                                                                      [23;1H~                                                                                                                                      [24;1H~                                                                                                                                      [25;1H~                                                                                                                                      [26;1H~                                                                                                                                      [27;1H~                                                                                                                                      [28;1H~                                                                                                                                      [29;1H~                                                                                                                                      [30;1H~                                                                                                                                      [31;1H~                                                                                                                                      [32;1H~                                                                                                                                      [33;1H~                                                                                                                                      [34;1H~                                                                                                                                      [35;1H~                                                                                                                                      [36;1H~                                                                                                                                      [m[37;118H10,14[9CAll"docker-compose.yml" 15L, 303C[10;14H[?25h[?25l[37;108H^[[10;14H[37;108H  [10;14H[37;108H^[[10;14H[37;108H  [10;14H[?25h[?25l[37;108H:[10;14H[37;1H[K[37;1H:[?2004h[?25hw[?25l[?25hq[?25l[?25h[?25l[?2004l"docker-compose.yml" 15L, 303C written
+[?2004l[?1l>[?25h[?1049l[23;0;0t[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mvim Main.js 
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;37r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[37;1H"Main.js" 56L, 1232C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H[38;5;130mconst[m express= require([31m'express'[m);
+[38;5;130mconst[m app = express();
+[38;5;130mconst[m path =require([31m'path'[m);
+[38;5;130mconst[m mysql= require([31m'mysql'[m);
+[38;5;130mconst[m session= require([31m'express-session'[m);
+[38;5;130mconst[m MySqlStore= require([31m'express-mysql-session'[m)(session);
+[38;5;130mconst[m Router =require([31m'./Router'[m);
+
+app.use(express.[38;5;130mstatic[m(path.join(__dirname,[31m'build'[m)));
+app.use(express.json());
+
+console.log([31m'Testing Server'[m)
+[34m//Database[m
+
+[38;5;130mconst[m db= mysql.createConnection([36m{[m[16;6Hhost: [31m'172.18.0.2'[m,[17;6Hip: [31m'3306'[m,[18;6Huser: [31m'puscd'[m,[19;6Hpassword:[31m''[m,[20;6Hdatabase: [31m'user'[m
+[36m}[m);
+
+db.connect([36mfunction[m(err)[36m{[m[24;6H[38;5;130mif[m(err)[36m{[m[25;11Hconsole.log([31m'DB Error'[m);[26;11H[38;5;130mthrow[m err;[27;11H[38;5;130mreturn[m [31mfalse[m;[28;6H[36m}[m[29;6H[38;5;130melse[m console.log([31m'Successfully Connected To DB'[m)
+[36m}[m);
+
+[38;5;130mconst[m sessionStore= [38;5;130mnew[m MySqlStore([36m{[m[33;6Hexpiration: (1825*86400*1000),[34;6HendConnectionOnClose: [31mfalse[m
+[36m}[m,db);[37;118H16,22[9CTop[16;22H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[27m[23m[29m[m[H[2J[?25l[1;1H[93mconst[m express= require([95m'express'[m);
+[93mconst[m app = express();
+[93mconst[m path =require([95m'path'[m);
+[93mconst[m mysql= require([95m'mysql'[m);
+[93mconst[m session= require([95m'express-session'[m);
+[93mconst[m MySqlStore= require([95m'express-mysql-session'[m)(session);
+[93mconst[m Router =require([95m'./Router'[m);
+
+app.use(express.[93mstatic[m(path.join(__dirname,[95m'build'[m)));
+app.use(express.json());
+
+console.log([95m'Testing Server'[m)
+[96m//Database[m
+
+[93mconst[m db= mysql.createConnection([1m[96m{[m[16;6Hhost: [95m'172.18.0.2'[m,[17;6Hip: [95m'3306'[m,[18;6Huser: [95m'puscd'[m,[19;6Hpassword:[95m''[m,[20;6Hdatabase: [95m'user'[m
+[1m[96m}[m);
+
+db.connect([1m[96mfunction[m(err)[1m[96m{[m[24;6H[93mif[m(err)[1m[96m{[m[25;11Hconsole.log([95m'DB Error'[m);[26;11H[93mthrow[m err;[27;11H[93mreturn[m [95mfalse[m;[28;6H[1m[96m}[m[29;6H[93melse[m console.log([95m'Successfully Connected To DB'[m)
+[1m[96m}[m);
+
+[93mconst[m sessionStore= [93mnew[m MySqlStore([1m[96m{[m[33;6Hexpiration: (1825*86400*1000),[34;6HendConnectionOnClose: [95mfalse[m
+[1m[96m}[m,db);[37;118H16,22[9CTop"Main.js" 56L, 1232C[16;22H[?25h[?25l[37;108H^[[16;22H[37;108H  [16;22H[37;108H^[[16;22H[37;108H  [16;22H[?25h[?25l[37;108H:[16;22H[37;1H[K[37;1H:[?2004h[?25hw[?25l[?25hq[?25l[?25h[?25l[?2004l"Main.js" 56L, 1232C written
+[?2004l[?1l>[?25h[?1049l[23;0;0t[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdc[Kocker inspect [K[K[K[K[K[K[K[K[K[K[K[K[K[Kocker ps -a
+CONTAINER ID        IMAGE               COMMAND                  CREATED             STATUS              PORTS                    NAMES
+dfd441a634a1        mysql:8.0.2         "docker-entrypoint.s…"   10 minutes ago      Up 10 minutes       0.0.0.0:3306->3306/tcp   mysql-img
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdocker inspect dfd44
+[
+    {
+        "Id": "dfd441a634a1762431ebb2c869b54798bd3b8f6b3c87958fe8130f964c00e22f",
+        "Created": "2020-04-30T17:19:38.529618522Z",
+        "Path": "docker-entrypoint.sh",
+        "Args": [
+            "mysqld"
+        ],
+        "State": {
+            "Status": "running",
+            "Running": true,
+            "Paused": false,
+            "Restarting": false,
+            "OOMKilled": false,
+            "Dead": false,
+            "Pid": 9309,
+            "ExitCode": 0,
+            "Error": "",
+            "StartedAt": "2020-04-30T17:19:41.558832127Z",
+            "FinishedAt": "0001-01-01T00:00:00Z"
+        },
+        "Image": "sha256:f693302d97a2cfd9fc8882e3601dd8133e6b8e69c3f05aabdbff6136390e816f",
+        "ResolvConfPath": "/var/lib/docker/containers/dfd441a634a1762431ebb2c869b54798bd3b8f6b3c87958fe8130f964c00e22f/resolv.conf",
+        "HostnamePath": "/var/lib/docker/containers/dfd441a634a1762431ebb2c869b54798bd3b8f6b3c87958fe8130f964c00e22f/hostname",
+        "HostsPath": "/var/lib/docker/containers/dfd441a634a1762431ebb2c869b54798bd3b8f6b3c87958fe8130f964c00e22f/hosts",
+        "LogPath": "/var/lib/docker/containers/dfd441a634a1762431ebb2c869b54798bd3b8f6b3c87958fe8130f964c00e22f/dfd441a634a1762431ebb2c869b54798bd3b8f6b3c87958fe8130f964c00e22f-json.log",
+        "Name": "/mysql-img",
+        "RestartCount": 0,
+        "Driver": "overlay2",
+        "Platform": "linux",
+        "MountLabel": "",
+        "ProcessLabel": "",
+        "AppArmorProfile": "docker-default",
+        "ExecIDs": [
+            "468e15fb5973f7a0f0d9a89041f83909669fb762777a05a385935d280bdf0f27"
+        ],
+        "HostConfig": {
+            "Binds": [],
+            "ContainerIDFile": "",
+            "LogConfig": {
+                "Type": "json-file",
+                "Config": {}
+            },
+            "NetworkMode": "backend_default",
+            "PortBindings": {
+                "3306/tcp": [
+                    {
+                        "HostIp": "",
+                        "HostPort": "3306"
+                    }
+                ]
+            },
+            "RestartPolicy": {
+                "Name": "always",
+                "MaximumRetryCount": 0
+            },
+            "AutoRemove": false,
+            "VolumeDriver": "",
+            "VolumesFrom": [],
+            "CapAdd": null,
+            "CapDrop": null,
+            "Capabilities": null,
+            "Dns": null,
+            "DnsOptions": null,
+            "DnsSearch": null,
+            "ExtraHosts": null,
+            "GroupAdd": null,
+            "IpcMode": "shareable",
+            "Cgroup": "",
+            "Links": null,
+            "OomScoreAdj": 0,
+            "PidMode": "",
+            "Privileged": false,
+            "PublishAllPorts": false,
+            "ReadonlyRootfs": false,
+            "SecurityOpt": null,
+            "UTSMode": "",
+            "UsernsMode": "",
+            "ShmSize": 67108864,
+            "Runtime": "runc",
+            "ConsoleSize": [
+                0,
+                0
+            ],
+            "Isolation": "",
+            "CpuShares": 0,
+            "Memory": 0,
+            "NanoCpus": 0,
+            "CgroupParent": "",
+            "BlkioWeight": 0,
+            "BlkioWeightDevice": null,
+            "BlkioDeviceReadBps": null,
+            "BlkioDeviceWriteBps": null,
+            "BlkioDeviceReadIOps": null,
+            "BlkioDeviceWriteIOps": null,
+            "CpuPeriod": 0,
+            "CpuQuota": 0,
+            "CpuRealtimePeriod": 0,
+            "CpuRealtimeRuntime": 0,
+            "CpusetCpus": "",
+            "CpusetMems": "",
+            "Devices": null,
+            "DeviceCgroupRules": null,
+            "DeviceRequests": null,
+            "KernelMemory": 0,
+            "KernelMemoryTCP": 0,
+            "MemoryReservation": 0,
+            "MemorySwap": 0,
+            "MemorySwappiness": null,
+            "OomKillDisable": false,
+            "PidsLimit": null,
+            "Ulimits": null,
+            "CpuCount": 0,
+            "CpuPercent": 0,
+            "IOMaximumIOps": 0,
+            "IOMaximumBandwidth": 0,
+            "MaskedPaths": [
+                "/proc/asound",
+                "/proc/acpi",
+                "/proc/kcore",
+                "/proc/keys",
+                "/proc/latency_stats",
+                "/proc/timer_list",
+                "/proc/timer_stats",
+                "/proc/sched_debug",
+                "/proc/scsi",
+                "/sys/firmware"
+            ],
+            "ReadonlyPaths": [
+                "/proc/bus",
+                "/proc/fs",
+                "/proc/irq",
+                "/proc/sys",
+                "/proc/sysrq-trigger"
+            ]
+        },
+        "GraphDriver": {
+            "Data": {
+                "LowerDir": "/var/lib/docker/overlay2/41e4601fc8fcc285b4f43a790f0bb36e2c4e4d819211f13ba3661e3c3d8016bc-init/diff:/var/lib/docker/overlay2/ad0e629d2a1cf110a005c0ebfeebd45c23930e3ac814e4b86ccff6e5a003f9bd/diff:/var/lib/docker/overlay2/990d156bf2bbbea1cbeec8a3652ba82fca40c3652671a1702353aa6bb9f2e8b9/diff:/var/lib/docker/overlay2/2027eda3f69cdbe62ef466230d3c365fb852125cbeaedb16893ed376961ae370/diff:/var/lib/docker/overlay2/db4b3e1acbb43a591fff3c0a0ee47e20b95cf08c8c61b2c45bb158952fcb4da7/diff:/var/lib/docker/overlay2/34c7488def26f599d920da17888f85368b4e083ac17d35699722b047815d632d/diff:/var/lib/docker/overlay2/b3bc587f1b7992f4a227dea56aa9e85f7d5e39b8322a52aab582fe0b2b2a71d1/diff:/var/lib/docker/overlay2/cec6914c785871d99ddd79d6a105c39af64f4d179de22018a527f33e3989ccfe/diff:/var/lib/docker/overlay2/7ac44e03e4fbb5ba66a8203d092e611b7e5f2a21be72b881f4e56ee75756108d/diff:/var/lib/docker/overlay2/43c27dec39c30e2e6642f13082212505b7cf0e6de683593877e0a13e970666cc/diff:/var/lib/docker/overlay2/9af9d9c84456fdec1539ea9ee6999fbbf29138077d715330344b9c1ec8ceef14/diff:/var/lib/docker/overlay2/dfb73e886d0a3586b29ece27f7448ace46273b1d78468c09f6c6d820246c0522/diff",
+                "MergedDir": "/var/lib/docker/overlay2/41e4601fc8fcc285b4f43a790f0bb36e2c4e4d819211f13ba3661e3c3d8016bc/merged",
+                "UpperDir": "/var/lib/docker/overlay2/41e4601fc8fcc285b4f43a790f0bb36e2c4e4d819211f13ba3661e3c3d8016bc/diff",
+                "WorkDir": "/var/lib/docker/overlay2/41e4601fc8fcc285b4f43a790f0bb36e2c4e4d819211f13ba3661e3c3d8016bc/work"
+            },
+            "Name": "overlay2"
+        },
+        "Mounts": [
+            {
+                "Type": "volume",
+                "Name": "96e8374a18cc6a36b00586d4105db735d82b8aeb815bef3c9e334e3528b08800",
+                "Source": "/var/lib/docker/volumes/96e8374a18cc6a36b00586d4105db735d82b8aeb815bef3c9e334e3528b08800/_data",
+                "Destination": "/var/lib/mysql",
+                "Driver": "local",
+                "Mode": "",
+                "RW": true,
+                "Propagation": ""
+            }
+        ],
+        "Config": {
+            "Hostname": "dfd441a634a1",
+            "Domainname": "",
+            "User": "",
+            "AttachStdin": false,
+            "AttachStdout": false,
+            "AttachStderr": false,
+            "ExposedPorts": {
+                "3306/tcp": {}
+            },
+            "Tty": false,
+            "OpenStdin": false,
+            "StdinOnce": false,
+            "Env": [
+                "MYSQL_ROOT_PASSWORD=root",
+                "MYSQL_USER=puscd",
+                "MYSQL_PASSWORD=",
+                "MYSQL_DATABASE=user",
+                "PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin",
+                "GOSU_VERSION=1.7",
+                "MYSQL_MAJOR=8.0",
+                "MYSQL_VERSION=8.0.2-dmr-1debian8"
+            ],
+            "Cmd": [
+                "mysqld"
+            ],
+            "Image": "mysql:8.0.2",
+            "Volumes": {
+                "/var/lib/mysql": {}
+            },
+            "WorkingDir": "",
+            "Entrypoint": [
+                "docker-entrypoint.sh"
+            ],
+            "OnBuild": null,
+            "Labels": {
+                "com.docker.compose.config-hash": "4119f41cbfdd9898807050b7c494af27a8f842093f93020c5d7bbf5080d3efd0",
+                "com.docker.compose.container-number": "1",
+                "com.docker.compose.oneoff": "False",
+                "com.docker.compose.project": "backend",
+                "com.docker.compose.service": "sqldb",
+                "com.docker.compose.slug": "1291613dc3b16d6c5f8ec3887ece9f6aff19b388524215513acd24d962853b0",
+                "com.docker.compose.version": "1.23.1"
+            }
+        },
+        "NetworkSettings": {
+            "Bridge": "",
+            "SandboxID": "08cde0a20b892102edb2632411b145b94362b0b06f1cf3949686a3e076e697aa",
+            "HairpinMode": false,
+            "LinkLocalIPv6Address": "",
+            "LinkLocalIPv6PrefixLen": 0,
+            "Ports": {
+                "3306/tcp": [
+                    {
+                        "HostIp": "0.0.0.0",
+                        "HostPort": "3306"
+                    }
+                ]
+            },
+            "SandboxKey": "/var/run/docker/netns/08cde0a20b89",
+            "SecondaryIPAddresses": null,
+            "SecondaryIPv6Addresses": null,
+            "EndpointID": "",
+            "Gateway": "",
+            "GlobalIPv6Address": "",
+            "GlobalIPv6PrefixLen": 0,
+            "IPAddress": "",
+            "IPPrefixLen": 0,
+            "IPv6Gateway": "",
+            "MacAddress": "",
+            "Networks": {
+                "backend_default": {
+                    "IPAMConfig": null,
+                    "Links": null,
+                    "Aliases": [
+                        "dfd441a634a1",
+                        "sqldb"
+                    ],
+                    "NetworkID": "dde70fff5d9ccd5711e7b3ec4b67d0bf4c98a81ac9b782474377eca3edf5439e",
+                    "EndpointID": "db3eee6600d94eec59be786d7310165baecd78fd9d2924d8f789f8030085e8ce",
+                    "Gateway": "172.18.0.1",
+                    "IPAddress": "172.18.0.2",
+                    "IPPrefixLen": 16,
+                    "IPv6Gateway": "",
+                    "GlobalIPv6Address": "",
+                    "GlobalIPv6PrefixLen": 0,
+                    "MacAddress": "02:42:ac:12:00:02",
+                    "DriverOpts": null
+                }
+            }
+        }
+    }
+]
+[1m
+[38;5;34m[puscd][97m at [38;5;39m[B-18][97m in [38;5;202m~/dream_project/react-js/backend
+[97m$ (B[mdocker inspect dfd44[C[C[C[C[C[C[C[C[C[8Pps -a[C[Cvim Main.js 
+[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;37r[?12h[?12l[27m[23m[29m[m[H[2J[?25l[37;1H"Main.js" 56L, 1232C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H[38;5;130mconst[m express= require([31m'express'[m);
+[38;5;130mconst[m app = express();
+[38;5;130mconst[m path =require([31m'path'[m);
+[38;5;130mconst[m mysql= require([31m'mysql'[m);
+[38;5;130mconst[m session= require([31m'express-session'[m);
+[38;5;130mconst[m MySqlStore= require([31m'express-mysql-session'[m)(session);
+[38;5;130mconst[m Router =require([31m'./Router'[m);
+
+app.use(express.[38;5;130mstatic[m(path.join(__dirname,[31m'build'[m)));
+app.use(express.json());
+
+console.log([31m'Testing Server'[m)
+[34m//Database[m
+
+[38;5;130mconst[m db= mysql.createConnection([36m{[m[16;6Hhost: [31m'172.18.0.2'[m,[17;6Hip: [31m'3306'[m,[18;6Huser: [31m'puscd'[m,[19;6Hpassword:[31m''[m,[20;6Hdatabase: [31m'user'[m
+[36m}[m);
+
+db.connect([36mfunction[m(err)[36m{[m[24;6H[38;5;130mif[m(err)[36m{[m[25;11Hconsole.log([31m'DB Error'[m);[26;11H[38;5;130mthrow[m err;[27;11H[38;5;130mreturn[m [31mfalse[m;[28;6H[36m}[m[29;6H[38;5;130melse[m console.log([31m'Successfully Connected To DB'[m)
+[36m}[m);
+
+[38;5;130mconst[m sessionStore= [38;5;130mnew[m MySqlStore([36m{[m[33;6Hexpiration: (1825*86400*1000),[34;6HendConnectionOnClose: [31mfalse[m
+[36m}[m,db);[37;118H16,22[9CTop[16;22H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[27m[23m[29m[m[H[2J[?25l[1;1H[93mconst[m express= require([95m'express'[m);
+[93mconst[m app = express();
+[93mconst[m path =require([95m'path'[m);
+[93mconst[m mysql= require([95m'mysql'[m);
+[93mconst[m session= require([95m'express-session'[m);
+[93mconst[m MySqlStore= require([95m'express-mysql-session'[m)(session);
+[93mconst[m Router =require([95m'./Router'[m);
+
+app.use(express.[93mstatic[m(path.join(__dirname,[95m'build'[m)));
+app.use(express.json());
+
+console.log([95m'Testing Server'[m)
+[96m//Database[m
+
+[93mconst[m db= mysql.createConnection([1m[96m{[m[16;6Hhost: [95m'172.18.0.2'[m,[17;6Hip: [95m'3306'[m,[18;6Huser: [95m'puscd'[m,[19;6Hpassword:[95m''[m,[20;6Hdatabase: [95m'user'[m
+[1m[96m}[m);
+
+db.connect([1m[96mfunction[m(err)[1m[96m{[m[24;6H[93mif[m(err)[1m[96m{[m[25;11Hconsole.log([95m'DB Error'[m);[26;11H[93mthrow[m err;[27;11H[93mreturn[m [95mfalse[m;[28;6H[1m[96m}[m[29;6H[93melse[m console.log([95m'Successfully Connected To DB'[m)
+[1m[96m}[m);
+
+[93mconst[m sessionStore= [93mnew[m MySqlStore([1m[96m{[m[33;6Hexpiration: (1825*86400*1000),[34;6HendConnectionOnClose: [95mfalse[m
+[1m[96m}[m,db);[37;118H16,22[9CTop"Main.js" 56L, 1232C[16;22H[?25h[?25l[37;108H^[[16;22H[37;108H  [16;22H[37;108H^[[16;22H[37;108H  [16;22H[?25h[?25l[37;108H:[16;22H[37;1H[K[37;1H:[?2004h[?25hw[

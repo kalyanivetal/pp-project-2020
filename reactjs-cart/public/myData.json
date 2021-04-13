@@ -1,0 +1,17 @@
+[
+     {
+       "id": 1,
+       "name": "Tic Tac Toe game",
+       "src": "./images/1.jpeg"
+     },
+     {
+      "id" : 2,
+      "name" : "Football",
+      "src": "./images/2.jpg"
+     },
+     {
+      "id" : 3,
+      "name" : "Match",
+      "src": "./images/3.jpeg"
+     }
+]
